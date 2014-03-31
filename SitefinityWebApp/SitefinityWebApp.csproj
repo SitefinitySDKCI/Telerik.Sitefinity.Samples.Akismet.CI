@@ -732,11 +732,12 @@
     <Content Include="App_Data\Sitefinity\WebsiteTemplates\Samples\App_Master\Samples.master" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Telerik.Sitefinity.Samples.Common\Telerik.Sitefinity.Samples.Common.csproj">
-      <Name>Telerik.Sitefinity.Samples.Common</Name>
-    </ProjectReference>
     <ProjectReference Include="..\AkismetModule\AkismetModule.csproj">
       <Name>AkismetModule</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Telerik.Sitefinity.Samples.Common.CI\Telerik.Sitefinity.Samples.Common.csproj">
+      <Project>{cf03fb62-a8cc-42b4-9c81-87920c530d74}</Project>
+      <Name>Telerik.Sitefinity.Samples.Common</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
