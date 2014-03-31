@@ -1,0 +1,81 @@
+----------------------------------------
+Timestamp: 3/31/2014 8:15:10 AM
+
+Message: System.ArgumentNullException: Value cannot be null.
+Parameter name: source
+   at System.Linq.Enumerable.Select[TSource,TResult](IEnumerable`1 source, Func`2 selector)
+   at Telerik.Sitefinity.Data.ManagerExtensions.GetSiteProviders(IManager manager, Guid siteId)
+   at Telerik.Sitefinity.Data.ManagerBase`1.GetContextProviders()
+   at Telerik.Sitefinity.Web.UI.Backend.FlatProviderSelector.get_Providers()
+   at Telerik.Sitefinity.Web.UI.Backend.FlatProviderSelector.set_Manager(IManager value)
+   at Telerik.Sitefinity.Web.UI.ContentUI.Views.Backend.Master.MasterGridView.BindProvidersList()
+   at Telerik.Sitefinity.Web.UI.ContentUI.Views.Backend.Master.MasterGridView.InitializeControls(GenericContainer container, IContentViewDefinition definition)
+   at Telerik.Sitefinity.Web.UI.ContentUI.Views.Backend.ViewBase.CreateChildControls()
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 3/31/2014 8:15:20 AM
+
+Message: System.ArgumentNullException: Value cannot be null.
+Parameter name: source
+   at System.Linq.Enumerable.Select[TSource,TResult](IEnumerable`1 source, Func`2 selector)
+   at Telerik.Sitefinity.Data.ManagerExtensions.GetSiteProviders(IManager manager, Guid siteId)
+   at Telerik.Sitefinity.Data.ManagerBase`1.GetContextProviders()
+   at Telerik.Sitefinity.Web.UI.Backend.FlatProviderSelector.get_Providers()
+   at Telerik.Sitefinity.Web.UI.Backend.FlatProviderSelector.set_Manager(IManager value)
+   at Telerik.Sitefinity.Web.UI.ContentUI.Views.Backend.Master.MasterGridView.BindProvidersList()
+   at Telerik.Sitefinity.Web.UI.ContentUI.Views.Backend.Master.MasterGridView.InitializeControls(GenericContainer container, IContentViewDefinition definition)
+   at Telerik.Sitefinity.Web.UI.ContentUI.Views.Backend.ViewBase.CreateChildControls()
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 3/31/2014 9:09:53 AM
+
+Message: Shutting down threadpool...
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 3/31/2014 9:09:53 AM
+
+Message: Thread pool 'BackgroundTasksService': Shutdown of thread pool completed. All currently running threads will finish their work and stop.
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 3/31/2014 9:09:54 AM
+
+Message: WorkerThread is shut down
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 3/31/2014 9:09:54 AM
+
+Message: Background task scheduler shut down
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 3/31/2014 9:09:54 AM
+
+Message: WorkerThread is shut down
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 3/31/2014 9:09:54 AM
+
+Message: WorkerThread is shut down
+
+
+----------------------------------------
+----------------------------------------
+Timestamp: 3/31/2014 9:09:54 AM
+
+Message: WorkerThread is shut down
+
+
+----------------------------------------

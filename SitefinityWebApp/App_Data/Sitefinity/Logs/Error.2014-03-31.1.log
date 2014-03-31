@@ -1,0 +1,2754 @@
+----------------------------------------
+Timestamp: 2/26/2014 4:21:49 PM
+
+Message: HandlingInstanceID: 6a4870a1-62d2-43cc-8a60-2e789e209d5f
+An exception of type 'System.Reflection.TargetInvocationException' occurred and was caught.
+-------------------------------------------------------------------------------------------
+02/26/2014 18:21:49
+Type : System.Reflection.TargetInvocationException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Message : Property accessor 'PolicyName' on object 'Telerik.Sitefinity.Web.UI.ContentUI.Views.Backend.Master.Definitions.MasterGridViewDefinition' threw the following exception:'Object reference not set to an instance of an object.'
+Source : System
+Help link : 
+Data : System.Collections.ListDictionaryInternal
+TargetSite : System.Object GetValue(System.Object)
+HResult : -2146232828
+Stack Trace :    at System.ComponentModel.ReflectPropertyDescriptor.GetValue(Object component)
+   at Telerik.Sitefinity.Modules.Pages.PropertyPersisters.ObjectDataUtility.GetPropertyValue(PropertyDescriptor descriptor, Object component)
+
+Additional Info:
+
+MachineName : MILCHEVA
+TimeStamp : 2/26/2014 4:21:49 PM
+FullName : Telerik.Sitefinity.Utilities, Version=6.3.5000.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+AppDomainName : 8d9b9c5b-1-130379052822297973
+ThreadIdentity : 
+WindowsIdentity : TELERIK\milcheva
+Requested URL : http://localhost:22224/default.aspx
+	Inner Exception
+	---------------
+	Type : System.NullReferenceException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+	Message : Object reference not set to an instance of an object.
+	Source : Telerik.Sitefinity
+	Help link : 
+	Data : System.Collections.ListDictionaryInternal
+	TargetSite : System.String get_PolicyName()
+	HResult : -2147467261
+	Stack Trace :    at Telerik.Sitefinity.Web.UI.DefinitionBase.get_PolicyName()
+
+
+
+Category: ErrorLog
+
+Priority: 0
+
+EventId: 9010
+
+Severity: Warning
+
+Title:Enterprise Library Exception Handling
+
+Machine: MILCHEVA
+
+App Domain: 8d9b9c5b-1-130379052822297973
+
+ProcessId: 8860
+
+Process Name: C:\Program Files (x86)\Common Files\Microsoft Shared\DevServer\11.0\WebDev.WebServer40.exe
+
+Thread Name: 
+
+Win32 ThreadId:3172
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 2/26/2014 4:21:49 PM
+
+Message: HandlingInstanceID: 851e6657-76b1-4793-82a8-41d67c40aef9
+An exception of type 'System.Reflection.TargetInvocationException' occurred and was caught.
+-------------------------------------------------------------------------------------------
+02/26/2014 18:21:49
+Type : System.Reflection.TargetInvocationException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Message : Property accessor 'PolicyName' on object 'Telerik.Sitefinity.Web.UI.ContentUI.Views.Backend.Master.Definitions.MasterGridViewDefinition' threw the following exception:'Object reference not set to an instance of an object.'
+Source : System
+Help link : 
+Data : System.Collections.ListDictionaryInternal
+TargetSite : System.Object GetValue(System.Object)
+HResult : -2146232828
+Stack Trace :    at System.ComponentModel.ReflectPropertyDescriptor.GetValue(Object component)
+   at Telerik.Sitefinity.Modules.Pages.PropertyPersisters.ObjectDataUtility.GetPropertyValue(PropertyDescriptor descriptor, Object component)
+
+Additional Info:
+
+MachineName : MILCHEVA
+TimeStamp : 2/26/2014 4:21:49 PM
+FullName : Telerik.Sitefinity.Utilities, Version=6.3.5000.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+AppDomainName : 8d9b9c5b-1-130379052822297973
+ThreadIdentity : 
+WindowsIdentity : TELERIK\milcheva
+Requested URL : http://localhost:22224/default.aspx
+	Inner Exception
+	---------------
+	Type : System.NullReferenceException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+	Message : Object reference not set to an instance of an object.
+	Source : Telerik.Sitefinity
+	Help link : 
+	Data : System.Collections.ListDictionaryInternal
+	TargetSite : System.String get_PolicyName()
+	HResult : -2147467261
+	Stack Trace :    at Telerik.Sitefinity.Web.UI.DefinitionBase.get_PolicyName()
+
+
+
+Category: ErrorLog
+
+Priority: 0
+
+EventId: 9010
+
+Severity: Warning
+
+Title:Enterprise Library Exception Handling
+
+Machine: MILCHEVA
+
+App Domain: 8d9b9c5b-1-130379052822297973
+
+ProcessId: 8860
+
+Process Name: C:\Program Files (x86)\Common Files\Microsoft Shared\DevServer\11.0\WebDev.WebServer40.exe
+
+Thread Name: 
+
+Win32 ThreadId:3172
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 2/26/2014 4:21:49 PM
+
+Message: HandlingInstanceID: 1134d2ea-ffb5-4400-a025-b0c6cfcb0508
+An exception of type 'System.Reflection.TargetInvocationException' occurred and was caught.
+-------------------------------------------------------------------------------------------
+02/26/2014 18:21:49
+Type : System.Reflection.TargetInvocationException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Message : Property accessor 'PolicyName' on object 'Telerik.Sitefinity.Web.UI.ContentUI.Views.Backend.Detail.Definitions.DetailFormViewDefinition' threw the following exception:'Object reference not set to an instance of an object.'
+Source : System
+Help link : 
+Data : System.Collections.ListDictionaryInternal
+TargetSite : System.Object GetValue(System.Object)
+HResult : -2146232828
+Stack Trace :    at System.ComponentModel.ReflectPropertyDescriptor.GetValue(Object component)
+   at Telerik.Sitefinity.Modules.Pages.PropertyPersisters.ObjectDataUtility.GetPropertyValue(PropertyDescriptor descriptor, Object component)
+
+Additional Info:
+
+MachineName : MILCHEVA
+TimeStamp : 2/26/2014 4:21:49 PM
+FullName : Telerik.Sitefinity.Utilities, Version=6.3.5000.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+AppDomainName : 8d9b9c5b-1-130379052822297973
+ThreadIdentity : 
+WindowsIdentity : TELERIK\milcheva
+Requested URL : http://localhost:22224/default.aspx
+	Inner Exception
+	---------------
+	Type : System.NullReferenceException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+	Message : Object reference not set to an instance of an object.
+	Source : Telerik.Sitefinity
+	Help link : 
+	Data : System.Collections.ListDictionaryInternal
+	TargetSite : System.String get_PolicyName()
+	HResult : -2147467261
+	Stack Trace :    at Telerik.Sitefinity.Web.UI.DefinitionBase.get_PolicyName()
+
+
+
+Category: ErrorLog
+
+Priority: 0
+
+EventId: 9010
+
+Severity: Warning
+
+Title:Enterprise Library Exception Handling
+
+Machine: MILCHEVA
+
+App Domain: 8d9b9c5b-1-130379052822297973
+
+ProcessId: 8860
+
+Process Name: C:\Program Files (x86)\Common Files\Microsoft Shared\DevServer\11.0\WebDev.WebServer40.exe
+
+Thread Name: 
+
+Win32 ThreadId:3172
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 2/26/2014 4:21:49 PM
+
+Message: HandlingInstanceID: 422e67a6-12a7-4c27-a23f-f19e5f7c9a3b
+An exception of type 'System.Reflection.TargetInvocationException' occurred and was caught.
+-------------------------------------------------------------------------------------------
+02/26/2014 18:21:49
+Type : System.Reflection.TargetInvocationException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Message : Property accessor 'PolicyName' on object 'Telerik.Sitefinity.Web.UI.ContentUI.Views.Backend.Detail.Definitions.DetailFormViewDefinition' threw the following exception:'Object reference not set to an instance of an object.'
+Source : System
+Help link : 
+Data : System.Collections.ListDictionaryInternal
+TargetSite : System.Object GetValue(System.Object)
+HResult : -2146232828
+Stack Trace :    at System.ComponentModel.ReflectPropertyDescriptor.GetValue(Object component)
+   at Telerik.Sitefinity.Modules.Pages.PropertyPersisters.ObjectDataUtility.GetPropertyValue(PropertyDescriptor descriptor, Object component)
+
+Additional Info:
+
+MachineName : MILCHEVA
+TimeStamp : 2/26/2014 4:21:49 PM
+FullName : Telerik.Sitefinity.Utilities, Version=6.3.5000.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+AppDomainName : 8d9b9c5b-1-130379052822297973
+ThreadIdentity : 
+WindowsIdentity : TELERIK\milcheva
+Requested URL : http://localhost:22224/default.aspx
+	Inner Exception
+	---------------
+	Type : System.NullReferenceException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+	Message : Object reference not set to an instance of an object.
+	Source : Telerik.Sitefinity
+	Help link : 
+	Data : System.Collections.ListDictionaryInternal
+	TargetSite : System.String get_PolicyName()
+	HResult : -2147467261
+	Stack Trace :    at Telerik.Sitefinity.Web.UI.DefinitionBase.get_PolicyName()
+
+
+
+Category: ErrorLog
+
+Priority: 0
+
+EventId: 9010
+
+Severity: Warning
+
+Title:Enterprise Library Exception Handling
+
+Machine: MILCHEVA
+
+App Domain: 8d9b9c5b-1-130379052822297973
+
+ProcessId: 8860
+
+Process Name: C:\Program Files (x86)\Common Files\Microsoft Shared\DevServer\11.0\WebDev.WebServer40.exe
+
+Thread Name: 
+
+Win32 ThreadId:3172
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 2/26/2014 4:21:49 PM
+
+Message: HandlingInstanceID: aade3676-e020-4894-a56c-31988a4813bd
+An exception of type 'System.Reflection.TargetInvocationException' occurred and was caught.
+-------------------------------------------------------------------------------------------
+02/26/2014 18:21:49
+Type : System.Reflection.TargetInvocationException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Message : Property accessor 'PolicyName' on object 'Telerik.Sitefinity.Web.UI.ContentUI.Views.Backend.Detail.Definitions.DetailFormViewDefinition' threw the following exception:'Object reference not set to an instance of an object.'
+Source : System
+Help link : 
+Data : System.Collections.ListDictionaryInternal
+TargetSite : System.Object GetValue(System.Object)
+HResult : -2146232828
+Stack Trace :    at System.ComponentModel.ReflectPropertyDescriptor.GetValue(Object component)
+   at Telerik.Sitefinity.Modules.Pages.PropertyPersisters.ObjectDataUtility.GetPropertyValue(PropertyDescriptor descriptor, Object component)
+
+Additional Info:
+
+MachineName : MILCHEVA
+TimeStamp : 2/26/2014 4:21:49 PM
+FullName : Telerik.Sitefinity.Utilities, Version=6.3.5000.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+AppDomainName : 8d9b9c5b-1-130379052822297973
+ThreadIdentity : 
+WindowsIdentity : TELERIK\milcheva
+Requested URL : http://localhost:22224/default.aspx
+	Inner Exception
+	---------------
+	Type : System.NullReferenceException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+	Message : Object reference not set to an instance of an object.
+	Source : Telerik.Sitefinity
+	Help link : 
+	Data : System.Collections.ListDictionaryInternal
+	TargetSite : System.String get_PolicyName()
+	HResult : -2147467261
+	Stack Trace :    at Telerik.Sitefinity.Web.UI.DefinitionBase.get_PolicyName()
+
+
+
+Category: ErrorLog
+
+Priority: 0
+
+EventId: 9010
+
+Severity: Warning
+
+Title:Enterprise Library Exception Handling
+
+Machine: MILCHEVA
+
+App Domain: 8d9b9c5b-1-130379052822297973
+
+ProcessId: 8860
+
+Process Name: C:\Program Files (x86)\Common Files\Microsoft Shared\DevServer\11.0\WebDev.WebServer40.exe
+
+Thread Name: 
+
+Win32 ThreadId:3172
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 2/26/2014 4:21:49 PM
+
+Message: HandlingInstanceID: 56a7323f-8f4a-4f8d-99a9-666fc61f94dc
+An exception of type 'System.Reflection.TargetInvocationException' occurred and was caught.
+-------------------------------------------------------------------------------------------
+02/26/2014 18:21:49
+Type : System.Reflection.TargetInvocationException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Message : Property accessor 'PolicyName' on object 'Telerik.Sitefinity.Web.UI.ContentUI.Views.Backend.Detail.Definitions.DetailFormViewDefinition' threw the following exception:'Object reference not set to an instance of an object.'
+Source : System
+Help link : 
+Data : System.Collections.ListDictionaryInternal
+TargetSite : System.Object GetValue(System.Object)
+HResult : -2146232828
+Stack Trace :    at System.ComponentModel.ReflectPropertyDescriptor.GetValue(Object component)
+   at Telerik.Sitefinity.Modules.Pages.PropertyPersisters.ObjectDataUtility.GetPropertyValue(PropertyDescriptor descriptor, Object component)
+
+Additional Info:
+
+MachineName : MILCHEVA
+TimeStamp : 2/26/2014 4:21:49 PM
+FullName : Telerik.Sitefinity.Utilities, Version=6.3.5000.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+AppDomainName : 8d9b9c5b-1-130379052822297973
+ThreadIdentity : 
+WindowsIdentity : TELERIK\milcheva
+Requested URL : http://localhost:22224/default.aspx
+	Inner Exception
+	---------------
+	Type : System.NullReferenceException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+	Message : Object reference not set to an instance of an object.
+	Source : Telerik.Sitefinity
+	Help link : 
+	Data : System.Collections.ListDictionaryInternal
+	TargetSite : System.String get_PolicyName()
+	HResult : -2147467261
+	Stack Trace :    at Telerik.Sitefinity.Web.UI.DefinitionBase.get_PolicyName()
+
+
+
+Category: ErrorLog
+
+Priority: 0
+
+EventId: 9010
+
+Severity: Warning
+
+Title:Enterprise Library Exception Handling
+
+Machine: MILCHEVA
+
+App Domain: 8d9b9c5b-1-130379052822297973
+
+ProcessId: 8860
+
+Process Name: C:\Program Files (x86)\Common Files\Microsoft Shared\DevServer\11.0\WebDev.WebServer40.exe
+
+Thread Name: 
+
+Win32 ThreadId:3172
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 2/26/2014 4:21:49 PM
+
+Message: HandlingInstanceID: 4accfd1f-7250-4340-b07b-ec6acc780a2a
+An exception of type 'System.Reflection.TargetInvocationException' occurred and was caught.
+-------------------------------------------------------------------------------------------
+02/26/2014 18:21:49
+Type : System.Reflection.TargetInvocationException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Message : Property accessor 'PolicyName' on object 'Telerik.Sitefinity.Web.UI.ContentUI.ContentViewControlDefinition' threw the following exception:'Object reference not set to an instance of an object.'
+Source : System
+Help link : 
+Data : System.Collections.ListDictionaryInternal
+TargetSite : System.Object GetValue(System.Object)
+HResult : -2146232828
+Stack Trace :    at System.ComponentModel.ReflectPropertyDescriptor.GetValue(Object component)
+   at Telerik.Sitefinity.Modules.Pages.PropertyPersisters.ObjectDataUtility.GetPropertyValue(PropertyDescriptor descriptor, Object component)
+
+Additional Info:
+
+MachineName : MILCHEVA
+TimeStamp : 2/26/2014 4:21:49 PM
+FullName : Telerik.Sitefinity.Utilities, Version=6.3.5000.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+AppDomainName : 8d9b9c5b-1-130379052822297973
+ThreadIdentity : 
+WindowsIdentity : TELERIK\milcheva
+Requested URL : http://localhost:22224/default.aspx
+	Inner Exception
+	---------------
+	Type : System.NullReferenceException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+	Message : Object reference not set to an instance of an object.
+	Source : Telerik.Sitefinity
+	Help link : 
+	Data : System.Collections.ListDictionaryInternal
+	TargetSite : System.String get_PolicyName()
+	HResult : -2147467261
+	Stack Trace :    at Telerik.Sitefinity.Web.UI.DefinitionBase.get_PolicyName()
+
+
+
+Category: ErrorLog
+
+Priority: 0
+
+EventId: 9010
+
+Severity: Warning
+
+Title:Enterprise Library Exception Handling
+
+Machine: MILCHEVA
+
+App Domain: 8d9b9c5b-1-130379052822297973
+
+ProcessId: 8860
+
+Process Name: C:\Program Files (x86)\Common Files\Microsoft Shared\DevServer\11.0\WebDev.WebServer40.exe
+
+Thread Name: 
+
+Win32 ThreadId:3172
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 2/26/2014 4:21:49 PM
+
+Message: HandlingInstanceID: 2cb20455-686b-4104-a41f-da6aa2f0ff8e
+An exception of type 'System.Reflection.TargetInvocationException' occurred and was caught.
+-------------------------------------------------------------------------------------------
+02/26/2014 18:21:49
+Type : System.Reflection.TargetInvocationException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Message : Property accessor 'PolicyName' on object 'Telerik.Sitefinity.Web.UI.ContentUI.ContentViewControlDefinition' threw the following exception:'Object reference not set to an instance of an object.'
+Source : System
+Help link : 
+Data : System.Collections.ListDictionaryInternal
+TargetSite : System.Object GetValue(System.Object)
+HResult : -2146232828
+Stack Trace :    at System.ComponentModel.ReflectPropertyDescriptor.GetValue(Object component)
+   at Telerik.Sitefinity.Modules.Pages.PropertyPersisters.ObjectDataUtility.GetPropertyValue(PropertyDescriptor descriptor, Object component)
+
+Additional Info:
+
+MachineName : MILCHEVA
+TimeStamp : 2/26/2014 4:21:49 PM
+FullName : Telerik.Sitefinity.Utilities, Version=6.3.5000.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+AppDomainName : 8d9b9c5b-1-130379052822297973
+ThreadIdentity : 
+WindowsIdentity : TELERIK\milcheva
+Requested URL : http://localhost:22224/default.aspx
+	Inner Exception
+	---------------
+	Type : System.NullReferenceException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+	Message : Object reference not set to an instance of an object.
+	Source : Telerik.Sitefinity
+	Help link : 
+	Data : System.Collections.ListDictionaryInternal
+	TargetSite : System.String get_PolicyName()
+	HResult : -2147467261
+	Stack Trace :    at Telerik.Sitefinity.Web.UI.DefinitionBase.get_PolicyName()
+
+
+
+Category: ErrorLog
+
+Priority: 0
+
+EventId: 9010
+
+Severity: Warning
+
+Title:Enterprise Library Exception Handling
+
+Machine: MILCHEVA
+
+App Domain: 8d9b9c5b-1-130379052822297973
+
+ProcessId: 8860
+
+Process Name: C:\Program Files (x86)\Common Files\Microsoft Shared\DevServer\11.0\WebDev.WebServer40.exe
+
+Thread Name: 
+
+Win32 ThreadId:3172
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 2/26/2014 4:21:49 PM
+
+Message: HandlingInstanceID: 8d3207c4-5ebb-45d4-ba17-7f9faeac5a14
+An exception of type 'System.Reflection.TargetInvocationException' occurred and was caught.
+-------------------------------------------------------------------------------------------
+02/26/2014 18:21:49
+Type : System.Reflection.TargetInvocationException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Message : Property accessor 'PolicyName' on object 'Telerik.Sitefinity.Web.UI.ContentUI.Views.Backend.Master.Definitions.MasterGridViewDefinition' threw the following exception:'Object reference not set to an instance of an object.'
+Source : System
+Help link : 
+Data : System.Collections.ListDictionaryInternal
+TargetSite : System.Object GetValue(System.Object)
+HResult : -2146232828
+Stack Trace :    at System.ComponentModel.ReflectPropertyDescriptor.GetValue(Object component)
+   at Telerik.Sitefinity.Modules.Pages.PropertyPersisters.ObjectDataUtility.GetPropertyValue(PropertyDescriptor descriptor, Object component)
+
+Additional Info:
+
+MachineName : MILCHEVA
+TimeStamp : 2/26/2014 4:21:49 PM
+FullName : Telerik.Sitefinity.Utilities, Version=6.3.5000.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+AppDomainName : 8d9b9c5b-1-130379052822297973
+ThreadIdentity : 
+WindowsIdentity : TELERIK\milcheva
+Requested URL : http://localhost:22224/default.aspx
+	Inner Exception
+	---------------
+	Type : System.NullReferenceException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+	Message : Object reference not set to an instance of an object.
+	Source : Telerik.Sitefinity
+	Help link : 
+	Data : System.Collections.ListDictionaryInternal
+	TargetSite : System.String get_PolicyName()
+	HResult : -2147467261
+	Stack Trace :    at Telerik.Sitefinity.Web.UI.DefinitionBase.get_PolicyName()
+
+
+
+Category: ErrorLog
+
+Priority: 0
+
+EventId: 9010
+
+Severity: Warning
+
+Title:Enterprise Library Exception Handling
+
+Machine: MILCHEVA
+
+App Domain: 8d9b9c5b-1-130379052822297973
+
+ProcessId: 8860
+
+Process Name: C:\Program Files (x86)\Common Files\Microsoft Shared\DevServer\11.0\WebDev.WebServer40.exe
+
+Thread Name: 
+
+Win32 ThreadId:3172
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 2/26/2014 4:21:49 PM
+
+Message: HandlingInstanceID: 830c6855-4792-4904-af6d-8fb88153b60d
+An exception of type 'System.Reflection.TargetInvocationException' occurred and was caught.
+-------------------------------------------------------------------------------------------
+02/26/2014 18:21:49
+Type : System.Reflection.TargetInvocationException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Message : Property accessor 'PolicyName' on object 'Telerik.Sitefinity.Web.UI.ContentUI.Views.Backend.Master.Definitions.MasterGridViewDefinition' threw the following exception:'Object reference not set to an instance of an object.'
+Source : System
+Help link : 
+Data : System.Collections.ListDictionaryInternal
+TargetSite : System.Object GetValue(System.Object)
+HResult : -2146232828
+Stack Trace :    at System.ComponentModel.ReflectPropertyDescriptor.GetValue(Object component)
+   at Telerik.Sitefinity.Modules.Pages.PropertyPersisters.ObjectDataUtility.GetPropertyValue(PropertyDescriptor descriptor, Object component)
+
+Additional Info:
+
+MachineName : MILCHEVA
+TimeStamp : 2/26/2014 4:21:49 PM
+FullName : Telerik.Sitefinity.Utilities, Version=6.3.5000.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+AppDomainName : 8d9b9c5b-1-130379052822297973
+ThreadIdentity : 
+WindowsIdentity : TELERIK\milcheva
+Requested URL : http://localhost:22224/default.aspx
+	Inner Exception
+	---------------
+	Type : System.NullReferenceException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+	Message : Object reference not set to an instance of an object.
+	Source : Telerik.Sitefinity
+	Help link : 
+	Data : System.Collections.ListDictionaryInternal
+	TargetSite : System.String get_PolicyName()
+	HResult : -2147467261
+	Stack Trace :    at Telerik.Sitefinity.Web.UI.DefinitionBase.get_PolicyName()
+
+
+
+Category: ErrorLog
+
+Priority: 0
+
+EventId: 9010
+
+Severity: Warning
+
+Title:Enterprise Library Exception Handling
+
+Machine: MILCHEVA
+
+App Domain: 8d9b9c5b-1-130379052822297973
+
+ProcessId: 8860
+
+Process Name: C:\Program Files (x86)\Common Files\Microsoft Shared\DevServer\11.0\WebDev.WebServer40.exe
+
+Thread Name: 
+
+Win32 ThreadId:3172
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 2/26/2014 4:21:49 PM
+
+Message: HandlingInstanceID: 92a98531-7552-4c3b-b607-f7a109481d5f
+An exception of type 'System.Reflection.TargetInvocationException' occurred and was caught.
+-------------------------------------------------------------------------------------------
+02/26/2014 18:21:49
+Type : System.Reflection.TargetInvocationException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Message : Property accessor 'PolicyName' on object 'Telerik.Sitefinity.Web.UI.ContentUI.Views.Backend.Detail.Definitions.DetailFormViewDefinition' threw the following exception:'Object reference not set to an instance of an object.'
+Source : System
+Help link : 
+Data : System.Collections.ListDictionaryInternal
+TargetSite : System.Object GetValue(System.Object)
+HResult : -2146232828
+Stack Trace :    at System.ComponentModel.ReflectPropertyDescriptor.GetValue(Object component)
+   at Telerik.Sitefinity.Modules.Pages.PropertyPersisters.ObjectDataUtility.GetPropertyValue(PropertyDescriptor descriptor, Object component)
+
+Additional Info:
+
+MachineName : MILCHEVA
+TimeStamp : 2/26/2014 4:21:49 PM
+FullName : Telerik.Sitefinity.Utilities, Version=6.3.5000.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+AppDomainName : 8d9b9c5b-1-130379052822297973
+ThreadIdentity : 
+WindowsIdentity : TELERIK\milcheva
+Requested URL : http://localhost:22224/default.aspx
+	Inner Exception
+	---------------
+	Type : System.NullReferenceException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+	Message : Object reference not set to an instance of an object.
+	Source : Telerik.Sitefinity
+	Help link : 
+	Data : System.Collections.ListDictionaryInternal
+	TargetSite : System.String get_PolicyName()
+	HResult : -2147467261
+	Stack Trace :    at Telerik.Sitefinity.Web.UI.DefinitionBase.get_PolicyName()
+
+
+
+Category: ErrorLog
+
+Priority: 0
+
+EventId: 9010
+
+Severity: Warning
+
+Title:Enterprise Library Exception Handling
+
+Machine: MILCHEVA
+
+App Domain: 8d9b9c5b-1-130379052822297973
+
+ProcessId: 8860
+
+Process Name: C:\Program Files (x86)\Common Files\Microsoft Shared\DevServer\11.0\WebDev.WebServer40.exe
+
+Thread Name: 
+
+Win32 ThreadId:3172
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 2/26/2014 4:21:49 PM
+
+Message: HandlingInstanceID: 6c5acd50-9664-4562-8cb1-2a7221edc2fc
+An exception of type 'System.Reflection.TargetInvocationException' occurred and was caught.
+-------------------------------------------------------------------------------------------
+02/26/2014 18:21:49
+Type : System.Reflection.TargetInvocationException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Message : Property accessor 'PolicyName' on object 'Telerik.Sitefinity.Web.UI.ContentUI.Views.Backend.Detail.Definitions.DetailFormViewDefinition' threw the following exception:'Object reference not set to an instance of an object.'
+Source : System
+Help link : 
+Data : System.Collections.ListDictionaryInternal
+TargetSite : System.Object GetValue(System.Object)
+HResult : -2146232828
+Stack Trace :    at System.ComponentModel.ReflectPropertyDescriptor.GetValue(Object component)
+   at Telerik.Sitefinity.Modules.Pages.PropertyPersisters.ObjectDataUtility.GetPropertyValue(PropertyDescriptor descriptor, Object component)
+
+Additional Info:
+
+MachineName : MILCHEVA
+TimeStamp : 2/26/2014 4:21:49 PM
+FullName : Telerik.Sitefinity.Utilities, Version=6.3.5000.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+AppDomainName : 8d9b9c5b-1-130379052822297973
+ThreadIdentity : 
+WindowsIdentity : TELERIK\milcheva
+Requested URL : http://localhost:22224/default.aspx
+	Inner Exception
+	---------------
+	Type : System.NullReferenceException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+	Message : Object reference not set to an instance of an object.
+	Source : Telerik.Sitefinity
+	Help link : 
+	Data : System.Collections.ListDictionaryInternal
+	TargetSite : System.String get_PolicyName()
+	HResult : -2147467261
+	Stack Trace :    at Telerik.Sitefinity.Web.UI.DefinitionBase.get_PolicyName()
+
+
+
+Category: ErrorLog
+
+Priority: 0
+
+EventId: 9010
+
+Severity: Warning
+
+Title:Enterprise Library Exception Handling
+
+Machine: MILCHEVA
+
+App Domain: 8d9b9c5b-1-130379052822297973
+
+ProcessId: 8860
+
+Process Name: C:\Program Files (x86)\Common Files\Microsoft Shared\DevServer\11.0\WebDev.WebServer40.exe
+
+Thread Name: 
+
+Win32 ThreadId:3172
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 2/26/2014 4:21:49 PM
+
+Message: HandlingInstanceID: d8448649-1c63-431e-b8a5-6c42c29dd22a
+An exception of type 'System.Reflection.TargetInvocationException' occurred and was caught.
+-------------------------------------------------------------------------------------------
+02/26/2014 18:21:49
+Type : System.Reflection.TargetInvocationException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Message : Property accessor 'PolicyName' on object 'Telerik.Sitefinity.Web.UI.ContentUI.Views.Backend.Detail.Definitions.DetailFormViewDefinition' threw the following exception:'Object reference not set to an instance of an object.'
+Source : System
+Help link : 
+Data : System.Collections.ListDictionaryInternal
+TargetSite : System.Object GetValue(System.Object)
+HResult : -2146232828
+Stack Trace :    at System.ComponentModel.ReflectPropertyDescriptor.GetValue(Object component)
+   at Telerik.Sitefinity.Modules.Pages.PropertyPersisters.ObjectDataUtility.GetPropertyValue(PropertyDescriptor descriptor, Object component)
+
+Additional Info:
+
+MachineName : MILCHEVA
+TimeStamp : 2/26/2014 4:21:49 PM
+FullName : Telerik.Sitefinity.Utilities, Version=6.3.5000.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+AppDomainName : 8d9b9c5b-1-130379052822297973
+ThreadIdentity : 
+WindowsIdentity : TELERIK\milcheva
+Requested URL : http://localhost:22224/default.aspx
+	Inner Exception
+	---------------
+	Type : System.NullReferenceException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+	Message : Object reference not set to an instance of an object.
+	Source : Telerik.Sitefinity
+	Help link : 
+	Data : System.Collections.ListDictionaryInternal
+	TargetSite : System.String get_PolicyName()
+	HResult : -2147467261
+	Stack Trace :    at Telerik.Sitefinity.Web.UI.DefinitionBase.get_PolicyName()
+
+
+
+Category: ErrorLog
+
+Priority: 0
+
+EventId: 9010
+
+Severity: Warning
+
+Title:Enterprise Library Exception Handling
+
+Machine: MILCHEVA
+
+App Domain: 8d9b9c5b-1-130379052822297973
+
+ProcessId: 8860
+
+Process Name: C:\Program Files (x86)\Common Files\Microsoft Shared\DevServer\11.0\WebDev.WebServer40.exe
+
+Thread Name: 
+
+Win32 ThreadId:3172
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 2/26/2014 4:21:49 PM
+
+Message: HandlingInstanceID: dd83ac57-0080-47dd-921a-35cd7fc80000
+An exception of type 'System.Reflection.TargetInvocationException' occurred and was caught.
+-------------------------------------------------------------------------------------------
+02/26/2014 18:21:49
+Type : System.Reflection.TargetInvocationException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Message : Property accessor 'PolicyName' on object 'Telerik.Sitefinity.Web.UI.ContentUI.Views.Backend.Detail.Definitions.DetailFormViewDefinition' threw the following exception:'Object reference not set to an instance of an object.'
+Source : System
+Help link : 
+Data : System.Collections.ListDictionaryInternal
+TargetSite : System.Object GetValue(System.Object)
+HResult : -2146232828
+Stack Trace :    at System.ComponentModel.ReflectPropertyDescriptor.GetValue(Object component)
+   at Telerik.Sitefinity.Modules.Pages.PropertyPersisters.ObjectDataUtility.GetPropertyValue(PropertyDescriptor descriptor, Object component)
+
+Additional Info:
+
+MachineName : MILCHEVA
+TimeStamp : 2/26/2014 4:21:49 PM
+FullName : Telerik.Sitefinity.Utilities, Version=6.3.5000.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+AppDomainName : 8d9b9c5b-1-130379052822297973
+ThreadIdentity : 
+WindowsIdentity : TELERIK\milcheva
+Requested URL : http://localhost:22224/default.aspx
+	Inner Exception
+	---------------
+	Type : System.NullReferenceException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+	Message : Object reference not set to an instance of an object.
+	Source : Telerik.Sitefinity
+	Help link : 
+	Data : System.Collections.ListDictionaryInternal
+	TargetSite : System.String get_PolicyName()
+	HResult : -2147467261
+	Stack Trace :    at Telerik.Sitefinity.Web.UI.DefinitionBase.get_PolicyName()
+
+
+
+Category: ErrorLog
+
+Priority: 0
+
+EventId: 9010
+
+Severity: Warning
+
+Title:Enterprise Library Exception Handling
+
+Machine: MILCHEVA
+
+App Domain: 8d9b9c5b-1-130379052822297973
+
+ProcessId: 8860
+
+Process Name: C:\Program Files (x86)\Common Files\Microsoft Shared\DevServer\11.0\WebDev.WebServer40.exe
+
+Thread Name: 
+
+Win32 ThreadId:3172
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 2/26/2014 4:21:49 PM
+
+Message: HandlingInstanceID: 905b3041-0d5a-4698-8122-fa12e8606bda
+An exception of type 'System.Reflection.TargetInvocationException' occurred and was caught.
+-------------------------------------------------------------------------------------------
+02/26/2014 18:21:49
+Type : System.Reflection.TargetInvocationException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Message : Property accessor 'PolicyName' on object 'Telerik.Sitefinity.Web.UI.ContentUI.ContentViewControlDefinition' threw the following exception:'Object reference not set to an instance of an object.'
+Source : System
+Help link : 
+Data : System.Collections.ListDictionaryInternal
+TargetSite : System.Object GetValue(System.Object)
+HResult : -2146232828
+Stack Trace :    at System.ComponentModel.ReflectPropertyDescriptor.GetValue(Object component)
+   at Telerik.Sitefinity.Modules.Pages.PropertyPersisters.ObjectDataUtility.GetPropertyValue(PropertyDescriptor descriptor, Object component)
+
+Additional Info:
+
+MachineName : MILCHEVA
+TimeStamp : 2/26/2014 4:21:49 PM
+FullName : Telerik.Sitefinity.Utilities, Version=6.3.5000.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+AppDomainName : 8d9b9c5b-1-130379052822297973
+ThreadIdentity : 
+WindowsIdentity : TELERIK\milcheva
+Requested URL : http://localhost:22224/default.aspx
+	Inner Exception
+	---------------
+	Type : System.NullReferenceException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+	Message : Object reference not set to an instance of an object.
+	Source : Telerik.Sitefinity
+	Help link : 
+	Data : System.Collections.ListDictionaryInternal
+	TargetSite : System.String get_PolicyName()
+	HResult : -2147467261
+	Stack Trace :    at Telerik.Sitefinity.Web.UI.DefinitionBase.get_PolicyName()
+
+
+
+Category: ErrorLog
+
+Priority: 0
+
+EventId: 9010
+
+Severity: Warning
+
+Title:Enterprise Library Exception Handling
+
+Machine: MILCHEVA
+
+App Domain: 8d9b9c5b-1-130379052822297973
+
+ProcessId: 8860
+
+Process Name: C:\Program Files (x86)\Common Files\Microsoft Shared\DevServer\11.0\WebDev.WebServer40.exe
+
+Thread Name: 
+
+Win32 ThreadId:3172
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 2/26/2014 4:21:49 PM
+
+Message: HandlingInstanceID: 75a9898b-464f-4f10-b0d9-17ddd85ee81c
+An exception of type 'System.Reflection.TargetInvocationException' occurred and was caught.
+-------------------------------------------------------------------------------------------
+02/26/2014 18:21:49
+Type : System.Reflection.TargetInvocationException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Message : Property accessor 'PolicyName' on object 'Telerik.Sitefinity.Web.UI.ContentUI.ContentViewControlDefinition' threw the following exception:'Object reference not set to an instance of an object.'
+Source : System
+Help link : 
+Data : System.Collections.ListDictionaryInternal
+TargetSite : System.Object GetValue(System.Object)
+HResult : -2146232828
+Stack Trace :    at System.ComponentModel.ReflectPropertyDescriptor.GetValue(Object component)
+   at Telerik.Sitefinity.Modules.Pages.PropertyPersisters.ObjectDataUtility.GetPropertyValue(PropertyDescriptor descriptor, Object component)
+
+Additional Info:
+
+MachineName : MILCHEVA
+TimeStamp : 2/26/2014 4:21:49 PM
+FullName : Telerik.Sitefinity.Utilities, Version=6.3.5000.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+AppDomainName : 8d9b9c5b-1-130379052822297973
+ThreadIdentity : 
+WindowsIdentity : TELERIK\milcheva
+Requested URL : http://localhost:22224/default.aspx
+	Inner Exception
+	---------------
+	Type : System.NullReferenceException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+	Message : Object reference not set to an instance of an object.
+	Source : Telerik.Sitefinity
+	Help link : 
+	Data : System.Collections.ListDictionaryInternal
+	TargetSite : System.String get_PolicyName()
+	HResult : -2147467261
+	Stack Trace :    at Telerik.Sitefinity.Web.UI.DefinitionBase.get_PolicyName()
+
+
+
+Category: ErrorLog
+
+Priority: 0
+
+EventId: 9010
+
+Severity: Warning
+
+Title:Enterprise Library Exception Handling
+
+Machine: MILCHEVA
+
+App Domain: 8d9b9c5b-1-130379052822297973
+
+ProcessId: 8860
+
+Process Name: C:\Program Files (x86)\Common Files\Microsoft Shared\DevServer\11.0\WebDev.WebServer40.exe
+
+Thread Name: 
+
+Win32 ThreadId:3172
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 2/26/2014 4:21:49 PM
+
+Message: HandlingInstanceID: 73d59868-6135-415a-afa8-54d41d69ab7e
+An exception of type 'System.Reflection.TargetInvocationException' occurred and was caught.
+-------------------------------------------------------------------------------------------
+02/26/2014 18:21:49
+Type : System.Reflection.TargetInvocationException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Message : Property accessor 'PolicyName' on object 'Telerik.Sitefinity.Web.UI.ContentUI.Views.Backend.Master.Definitions.MasterGridViewDefinition' threw the following exception:'Object reference not set to an instance of an object.'
+Source : System
+Help link : 
+Data : System.Collections.ListDictionaryInternal
+TargetSite : System.Object GetValue(System.Object)
+HResult : -2146232828
+Stack Trace :    at System.ComponentModel.ReflectPropertyDescriptor.GetValue(Object component)
+   at Telerik.Sitefinity.Modules.Pages.PropertyPersisters.ObjectDataUtility.GetPropertyValue(PropertyDescriptor descriptor, Object component)
+
+Additional Info:
+
+MachineName : MILCHEVA
+TimeStamp : 2/26/2014 4:21:49 PM
+FullName : Telerik.Sitefinity.Utilities, Version=6.3.5000.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+AppDomainName : 8d9b9c5b-1-130379052822297973
+ThreadIdentity : 
+WindowsIdentity : TELERIK\milcheva
+Requested URL : http://localhost:22224/default.aspx
+	Inner Exception
+	---------------
+	Type : System.NullReferenceException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+	Message : Object reference not set to an instance of an object.
+	Source : Telerik.Sitefinity
+	Help link : 
+	Data : System.Collections.ListDictionaryInternal
+	TargetSite : System.String get_PolicyName()
+	HResult : -2147467261
+	Stack Trace :    at Telerik.Sitefinity.Web.UI.DefinitionBase.get_PolicyName()
+
+
+
+Category: ErrorLog
+
+Priority: 0
+
+EventId: 9010
+
+Severity: Warning
+
+Title:Enterprise Library Exception Handling
+
+Machine: MILCHEVA
+
+App Domain: 8d9b9c5b-1-130379052822297973
+
+ProcessId: 8860
+
+Process Name: C:\Program Files (x86)\Common Files\Microsoft Shared\DevServer\11.0\WebDev.WebServer40.exe
+
+Thread Name: 
+
+Win32 ThreadId:3172
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 2/26/2014 4:21:49 PM
+
+Message: HandlingInstanceID: 01bd3f32-e6d1-47cb-b97e-832fbc2b2dd9
+An exception of type 'System.Reflection.TargetInvocationException' occurred and was caught.
+-------------------------------------------------------------------------------------------
+02/26/2014 18:21:49
+Type : System.Reflection.TargetInvocationException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Message : Property accessor 'PolicyName' on object 'Telerik.Sitefinity.Web.UI.ContentUI.Views.Backend.Master.Definitions.MasterGridViewDefinition' threw the following exception:'Object reference not set to an instance of an object.'
+Source : System
+Help link : 
+Data : System.Collections.ListDictionaryInternal
+TargetSite : System.Object GetValue(System.Object)
+HResult : -2146232828
+Stack Trace :    at System.ComponentModel.ReflectPropertyDescriptor.GetValue(Object component)
+   at Telerik.Sitefinity.Modules.Pages.PropertyPersisters.ObjectDataUtility.GetPropertyValue(PropertyDescriptor descriptor, Object component)
+
+Additional Info:
+
+MachineName : MILCHEVA
+TimeStamp : 2/26/2014 4:21:49 PM
+FullName : Telerik.Sitefinity.Utilities, Version=6.3.5000.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+AppDomainName : 8d9b9c5b-1-130379052822297973
+ThreadIdentity : 
+WindowsIdentity : TELERIK\milcheva
+Requested URL : http://localhost:22224/default.aspx
+	Inner Exception
+	---------------
+	Type : System.NullReferenceException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+	Message : Object reference not set to an instance of an object.
+	Source : Telerik.Sitefinity
+	Help link : 
+	Data : System.Collections.ListDictionaryInternal
+	TargetSite : System.String get_PolicyName()
+	HResult : -2147467261
+	Stack Trace :    at Telerik.Sitefinity.Web.UI.DefinitionBase.get_PolicyName()
+
+
+
+Category: ErrorLog
+
+Priority: 0
+
+EventId: 9010
+
+Severity: Warning
+
+Title:Enterprise Library Exception Handling
+
+Machine: MILCHEVA
+
+App Domain: 8d9b9c5b-1-130379052822297973
+
+ProcessId: 8860
+
+Process Name: C:\Program Files (x86)\Common Files\Microsoft Shared\DevServer\11.0\WebDev.WebServer40.exe
+
+Thread Name: 
+
+Win32 ThreadId:3172
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 2/26/2014 4:21:49 PM
+
+Message: HandlingInstanceID: 418e4c54-eb11-438b-9464-24f403d5eb14
+An exception of type 'System.Reflection.TargetInvocationException' occurred and was caught.
+-------------------------------------------------------------------------------------------
+02/26/2014 18:21:49
+Type : System.Reflection.TargetInvocationException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Message : Property accessor 'PolicyName' on object 'Telerik.Sitefinity.Web.UI.ContentUI.Views.Backend.Detail.Definitions.DetailFormViewDefinition' threw the following exception:'Object reference not set to an instance of an object.'
+Source : System
+Help link : 
+Data : System.Collections.ListDictionaryInternal
+TargetSite : System.Object GetValue(System.Object)
+HResult : -2146232828
+Stack Trace :    at System.ComponentModel.ReflectPropertyDescriptor.GetValue(Object component)
+   at Telerik.Sitefinity.Modules.Pages.PropertyPersisters.ObjectDataUtility.GetPropertyValue(PropertyDescriptor descriptor, Object component)
+
+Additional Info:
+
+MachineName : MILCHEVA
+TimeStamp : 2/26/2014 4:21:49 PM
+FullName : Telerik.Sitefinity.Utilities, Version=6.3.5000.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+AppDomainName : 8d9b9c5b-1-130379052822297973
+ThreadIdentity : 
+WindowsIdentity : TELERIK\milcheva
+Requested URL : http://localhost:22224/default.aspx
+	Inner Exception
+	---------------
+	Type : System.NullReferenceException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+	Message : Object reference not set to an instance of an object.
+	Source : Telerik.Sitefinity
+	Help link : 
+	Data : System.Collections.ListDictionaryInternal
+	TargetSite : System.String get_PolicyName()
+	HResult : -2147467261
+	Stack Trace :    at Telerik.Sitefinity.Web.UI.DefinitionBase.get_PolicyName()
+
+
+
+Category: ErrorLog
+
+Priority: 0
+
+EventId: 9010
+
+Severity: Warning
+
+Title:Enterprise Library Exception Handling
+
+Machine: MILCHEVA
+
+App Domain: 8d9b9c5b-1-130379052822297973
+
+ProcessId: 8860
+
+Process Name: C:\Program Files (x86)\Common Files\Microsoft Shared\DevServer\11.0\WebDev.WebServer40.exe
+
+Thread Name: 
+
+Win32 ThreadId:3172
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 2/26/2014 4:21:49 PM
+
+Message: HandlingInstanceID: 91568830-0b77-4461-a1f6-9c2f4396833d
+An exception of type 'System.Reflection.TargetInvocationException' occurred and was caught.
+-------------------------------------------------------------------------------------------
+02/26/2014 18:21:49
+Type : System.Reflection.TargetInvocationException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Message : Property accessor 'PolicyName' on object 'Telerik.Sitefinity.Web.UI.ContentUI.Views.Backend.Detail.Definitions.DetailFormViewDefinition' threw the following exception:'Object reference not set to an instance of an object.'
+Source : System
+Help link : 
+Data : System.Collections.ListDictionaryInternal
+TargetSite : System.Object GetValue(System.Object)
+HResult : -2146232828
+Stack Trace :    at System.ComponentModel.ReflectPropertyDescriptor.GetValue(Object component)
+   at Telerik.Sitefinity.Modules.Pages.PropertyPersisters.ObjectDataUtility.GetPropertyValue(PropertyDescriptor descriptor, Object component)
+
+Additional Info:
+
+MachineName : MILCHEVA
+TimeStamp : 2/26/2014 4:21:49 PM
+FullName : Telerik.Sitefinity.Utilities, Version=6.3.5000.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+AppDomainName : 8d9b9c5b-1-130379052822297973
+ThreadIdentity : 
+WindowsIdentity : TELERIK\milcheva
+Requested URL : http://localhost:22224/default.aspx
+	Inner Exception
+	---------------
+	Type : System.NullReferenceException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+	Message : Object reference not set to an instance of an object.
+	Source : Telerik.Sitefinity
+	Help link : 
+	Data : System.Collections.ListDictionaryInternal
+	TargetSite : System.String get_PolicyName()
+	HResult : -2147467261
+	Stack Trace :    at Telerik.Sitefinity.Web.UI.DefinitionBase.get_PolicyName()
+
+
+
+Category: ErrorLog
+
+Priority: 0
+
+EventId: 9010
+
+Severity: Warning
+
+Title:Enterprise Library Exception Handling
+
+Machine: MILCHEVA
+
+App Domain: 8d9b9c5b-1-130379052822297973
+
+ProcessId: 8860
+
+Process Name: C:\Program Files (x86)\Common Files\Microsoft Shared\DevServer\11.0\WebDev.WebServer40.exe
+
+Thread Name: 
+
+Win32 ThreadId:3172
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 2/26/2014 4:21:49 PM
+
+Message: HandlingInstanceID: 9df2c50d-fabd-4336-a510-93e774d48b57
+An exception of type 'System.Reflection.TargetInvocationException' occurred and was caught.
+-------------------------------------------------------------------------------------------
+02/26/2014 18:21:49
+Type : System.Reflection.TargetInvocationException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Message : Property accessor 'PolicyName' on object 'Telerik.Sitefinity.Web.UI.ContentUI.Views.Backend.Detail.Definitions.DetailFormViewDefinition' threw the following exception:'Object reference not set to an instance of an object.'
+Source : System
+Help link : 
+Data : System.Collections.ListDictionaryInternal
+TargetSite : System.Object GetValue(System.Object)
+HResult : -2146232828
+Stack Trace :    at System.ComponentModel.ReflectPropertyDescriptor.GetValue(Object component)
+   at Telerik.Sitefinity.Modules.Pages.PropertyPersisters.ObjectDataUtility.GetPropertyValue(PropertyDescriptor descriptor, Object component)
+
+Additional Info:
+
+MachineName : MILCHEVA
+TimeStamp : 2/26/2014 4:21:49 PM
+FullName : Telerik.Sitefinity.Utilities, Version=6.3.5000.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+AppDomainName : 8d9b9c5b-1-130379052822297973
+ThreadIdentity : 
+WindowsIdentity : TELERIK\milcheva
+Requested URL : http://localhost:22224/default.aspx
+	Inner Exception
+	---------------
+	Type : System.NullReferenceException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+	Message : Object reference not set to an instance of an object.
+	Source : Telerik.Sitefinity
+	Help link : 
+	Data : System.Collections.ListDictionaryInternal
+	TargetSite : System.String get_PolicyName()
+	HResult : -2147467261
+	Stack Trace :    at Telerik.Sitefinity.Web.UI.DefinitionBase.get_PolicyName()
+
+
+
+Category: ErrorLog
+
+Priority: 0
+
+EventId: 9010
+
+Severity: Warning
+
+Title:Enterprise Library Exception Handling
+
+Machine: MILCHEVA
+
+App Domain: 8d9b9c5b-1-130379052822297973
+
+ProcessId: 8860
+
+Process Name: C:\Program Files (x86)\Common Files\Microsoft Shared\DevServer\11.0\WebDev.WebServer40.exe
+
+Thread Name: 
+
+Win32 ThreadId:3172
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 2/26/2014 4:21:49 PM
+
+Message: HandlingInstanceID: d7b92b3e-8ba6-4cb1-a5d9-d7939c27dc6f
+An exception of type 'System.Reflection.TargetInvocationException' occurred and was caught.
+-------------------------------------------------------------------------------------------
+02/26/2014 18:21:49
+Type : System.Reflection.TargetInvocationException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Message : Property accessor 'PolicyName' on object 'Telerik.Sitefinity.Web.UI.ContentUI.Views.Backend.Detail.Definitions.DetailFormViewDefinition' threw the following exception:'Object reference not set to an instance of an object.'
+Source : System
+Help link : 
+Data : System.Collections.ListDictionaryInternal
+TargetSite : System.Object GetValue(System.Object)
+HResult : -2146232828
+Stack Trace :    at System.ComponentModel.ReflectPropertyDescriptor.GetValue(Object component)
+   at Telerik.Sitefinity.Modules.Pages.PropertyPersisters.ObjectDataUtility.GetPropertyValue(PropertyDescriptor descriptor, Object component)
+
+Additional Info:
+
+MachineName : MILCHEVA
+TimeStamp : 2/26/2014 4:21:49 PM
+FullName : Telerik.Sitefinity.Utilities, Version=6.3.5000.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+AppDomainName : 8d9b9c5b-1-130379052822297973
+ThreadIdentity : 
+WindowsIdentity : TELERIK\milcheva
+Requested URL : http://localhost:22224/default.aspx
+	Inner Exception
+	---------------
+	Type : System.NullReferenceException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+	Message : Object reference not set to an instance of an object.
+	Source : Telerik.Sitefinity
+	Help link : 
+	Data : System.Collections.ListDictionaryInternal
+	TargetSite : System.String get_PolicyName()
+	HResult : -2147467261
+	Stack Trace :    at Telerik.Sitefinity.Web.UI.DefinitionBase.get_PolicyName()
+
+
+
+Category: ErrorLog
+
+Priority: 0
+
+EventId: 9010
+
+Severity: Warning
+
+Title:Enterprise Library Exception Handling
+
+Machine: MILCHEVA
+
+App Domain: 8d9b9c5b-1-130379052822297973
+
+ProcessId: 8860
+
+Process Name: C:\Program Files (x86)\Common Files\Microsoft Shared\DevServer\11.0\WebDev.WebServer40.exe
+
+Thread Name: 
+
+Win32 ThreadId:3172
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 2/26/2014 4:21:49 PM
+
+Message: HandlingInstanceID: 83c65f7e-74db-4d5a-8764-585779dc1945
+An exception of type 'System.Reflection.TargetInvocationException' occurred and was caught.
+-------------------------------------------------------------------------------------------
+02/26/2014 18:21:49
+Type : System.Reflection.TargetInvocationException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Message : Property accessor 'PolicyName' on object 'Telerik.Sitefinity.Web.UI.ContentUI.ContentViewControlDefinition' threw the following exception:'Object reference not set to an instance of an object.'
+Source : System
+Help link : 
+Data : System.Collections.ListDictionaryInternal
+TargetSite : System.Object GetValue(System.Object)
+HResult : -2146232828
+Stack Trace :    at System.ComponentModel.ReflectPropertyDescriptor.GetValue(Object component)
+   at Telerik.Sitefinity.Modules.Pages.PropertyPersisters.ObjectDataUtility.GetPropertyValue(PropertyDescriptor descriptor, Object component)
+
+Additional Info:
+
+MachineName : MILCHEVA
+TimeStamp : 2/26/2014 4:21:49 PM
+FullName : Telerik.Sitefinity.Utilities, Version=6.3.5000.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+AppDomainName : 8d9b9c5b-1-130379052822297973
+ThreadIdentity : 
+WindowsIdentity : TELERIK\milcheva
+Requested URL : http://localhost:22224/default.aspx
+	Inner Exception
+	---------------
+	Type : System.NullReferenceException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+	Message : Object reference not set to an instance of an object.
+	Source : Telerik.Sitefinity
+	Help link : 
+	Data : System.Collections.ListDictionaryInternal
+	TargetSite : System.String get_PolicyName()
+	HResult : -2147467261
+	Stack Trace :    at Telerik.Sitefinity.Web.UI.DefinitionBase.get_PolicyName()
+
+
+
+Category: ErrorLog
+
+Priority: 0
+
+EventId: 9010
+
+Severity: Warning
+
+Title:Enterprise Library Exception Handling
+
+Machine: MILCHEVA
+
+App Domain: 8d9b9c5b-1-130379052822297973
+
+ProcessId: 8860
+
+Process Name: C:\Program Files (x86)\Common Files\Microsoft Shared\DevServer\11.0\WebDev.WebServer40.exe
+
+Thread Name: 
+
+Win32 ThreadId:3172
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 2/26/2014 4:21:49 PM
+
+Message: HandlingInstanceID: 81dfa826-104c-4a45-9aaf-8078fcf51d82
+An exception of type 'System.Reflection.TargetInvocationException' occurred and was caught.
+-------------------------------------------------------------------------------------------
+02/26/2014 18:21:49
+Type : System.Reflection.TargetInvocationException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Message : Property accessor 'PolicyName' on object 'Telerik.Sitefinity.Web.UI.ContentUI.ContentViewControlDefinition' threw the following exception:'Object reference not set to an instance of an object.'
+Source : System
+Help link : 
+Data : System.Collections.ListDictionaryInternal
+TargetSite : System.Object GetValue(System.Object)
+HResult : -2146232828
+Stack Trace :    at System.ComponentModel.ReflectPropertyDescriptor.GetValue(Object component)
+   at Telerik.Sitefinity.Modules.Pages.PropertyPersisters.ObjectDataUtility.GetPropertyValue(PropertyDescriptor descriptor, Object component)
+
+Additional Info:
+
+MachineName : MILCHEVA
+TimeStamp : 2/26/2014 4:21:49 PM
+FullName : Telerik.Sitefinity.Utilities, Version=6.3.5000.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+AppDomainName : 8d9b9c5b-1-130379052822297973
+ThreadIdentity : 
+WindowsIdentity : TELERIK\milcheva
+Requested URL : http://localhost:22224/default.aspx
+	Inner Exception
+	---------------
+	Type : System.NullReferenceException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+	Message : Object reference not set to an instance of an object.
+	Source : Telerik.Sitefinity
+	Help link : 
+	Data : System.Collections.ListDictionaryInternal
+	TargetSite : System.String get_PolicyName()
+	HResult : -2147467261
+	Stack Trace :    at Telerik.Sitefinity.Web.UI.DefinitionBase.get_PolicyName()
+
+
+
+Category: ErrorLog
+
+Priority: 0
+
+EventId: 9010
+
+Severity: Warning
+
+Title:Enterprise Library Exception Handling
+
+Machine: MILCHEVA
+
+App Domain: 8d9b9c5b-1-130379052822297973
+
+ProcessId: 8860
+
+Process Name: C:\Program Files (x86)\Common Files\Microsoft Shared\DevServer\11.0\WebDev.WebServer40.exe
+
+Thread Name: 
+
+Win32 ThreadId:3172
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 2/26/2014 4:21:49 PM
+
+Message: HandlingInstanceID: 94b66b25-34f6-4405-a293-846b708dcd12
+An exception of type 'System.Reflection.TargetInvocationException' occurred and was caught.
+-------------------------------------------------------------------------------------------
+02/26/2014 18:21:49
+Type : System.Reflection.TargetInvocationException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Message : Property accessor 'PolicyName' on object 'Telerik.Sitefinity.Web.UI.ContentUI.Views.Backend.Master.Definitions.MasterGridViewDefinition' threw the following exception:'Object reference not set to an instance of an object.'
+Source : System
+Help link : 
+Data : System.Collections.ListDictionaryInternal
+TargetSite : System.Object GetValue(System.Object)
+HResult : -2146232828
+Stack Trace :    at System.ComponentModel.ReflectPropertyDescriptor.GetValue(Object component)
+   at Telerik.Sitefinity.Modules.Pages.PropertyPersisters.ObjectDataUtility.GetPropertyValue(PropertyDescriptor descriptor, Object component)
+
+Additional Info:
+
+MachineName : MILCHEVA
+TimeStamp : 2/26/2014 4:21:49 PM
+FullName : Telerik.Sitefinity.Utilities, Version=6.3.5000.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+AppDomainName : 8d9b9c5b-1-130379052822297973
+ThreadIdentity : 
+WindowsIdentity : TELERIK\milcheva
+Requested URL : http://localhost:22224/default.aspx
+	Inner Exception
+	---------------
+	Type : System.NullReferenceException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+	Message : Object reference not set to an instance of an object.
+	Source : Telerik.Sitefinity
+	Help link : 
+	Data : System.Collections.ListDictionaryInternal
+	TargetSite : System.String get_PolicyName()
+	HResult : -2147467261
+	Stack Trace :    at Telerik.Sitefinity.Web.UI.DefinitionBase.get_PolicyName()
+
+
+
+Category: ErrorLog
+
+Priority: 0
+
+EventId: 9010
+
+Severity: Warning
+
+Title:Enterprise Library Exception Handling
+
+Machine: MILCHEVA
+
+App Domain: 8d9b9c5b-1-130379052822297973
+
+ProcessId: 8860
+
+Process Name: C:\Program Files (x86)\Common Files\Microsoft Shared\DevServer\11.0\WebDev.WebServer40.exe
+
+Thread Name: 
+
+Win32 ThreadId:3172
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 2/26/2014 4:21:49 PM
+
+Message: HandlingInstanceID: e5205cdb-999d-4717-b604-c76255e0d80c
+An exception of type 'System.Reflection.TargetInvocationException' occurred and was caught.
+-------------------------------------------------------------------------------------------
+02/26/2014 18:21:49
+Type : System.Reflection.TargetInvocationException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Message : Property accessor 'PolicyName' on object 'Telerik.Sitefinity.Web.UI.ContentUI.Views.Backend.Master.Definitions.MasterGridViewDefinition' threw the following exception:'Object reference not set to an instance of an object.'
+Source : System
+Help link : 
+Data : System.Collections.ListDictionaryInternal
+TargetSite : System.Object GetValue(System.Object)
+HResult : -2146232828
+Stack Trace :    at System.ComponentModel.ReflectPropertyDescriptor.GetValue(Object component)
+   at Telerik.Sitefinity.Modules.Pages.PropertyPersisters.ObjectDataUtility.GetPropertyValue(PropertyDescriptor descriptor, Object component)
+
+Additional Info:
+
+MachineName : MILCHEVA
+TimeStamp : 2/26/2014 4:21:49 PM
+FullName : Telerik.Sitefinity.Utilities, Version=6.3.5000.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+AppDomainName : 8d9b9c5b-1-130379052822297973
+ThreadIdentity : 
+WindowsIdentity : TELERIK\milcheva
+Requested URL : http://localhost:22224/default.aspx
+	Inner Exception
+	---------------
+	Type : System.NullReferenceException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+	Message : Object reference not set to an instance of an object.
+	Source : Telerik.Sitefinity
+	Help link : 
+	Data : System.Collections.ListDictionaryInternal
+	TargetSite : System.String get_PolicyName()
+	HResult : -2147467261
+	Stack Trace :    at Telerik.Sitefinity.Web.UI.DefinitionBase.get_PolicyName()
+
+
+
+Category: ErrorLog
+
+Priority: 0
+
+EventId: 9010
+
+Severity: Warning
+
+Title:Enterprise Library Exception Handling
+
+Machine: MILCHEVA
+
+App Domain: 8d9b9c5b-1-130379052822297973
+
+ProcessId: 8860
+
+Process Name: C:\Program Files (x86)\Common Files\Microsoft Shared\DevServer\11.0\WebDev.WebServer40.exe
+
+Thread Name: 
+
+Win32 ThreadId:3172
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 2/26/2014 4:21:49 PM
+
+Message: HandlingInstanceID: 938333c7-04d7-40c9-a999-a66f66c70161
+An exception of type 'System.Reflection.TargetInvocationException' occurred and was caught.
+-------------------------------------------------------------------------------------------
+02/26/2014 18:21:49
+Type : System.Reflection.TargetInvocationException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Message : Property accessor 'PolicyName' on object 'Telerik.Sitefinity.Web.UI.ContentUI.Views.Backend.Detail.Definitions.DetailFormViewDefinition' threw the following exception:'Object reference not set to an instance of an object.'
+Source : System
+Help link : 
+Data : System.Collections.ListDictionaryInternal
+TargetSite : System.Object GetValue(System.Object)
+HResult : -2146232828
+Stack Trace :    at System.ComponentModel.ReflectPropertyDescriptor.GetValue(Object component)
+   at Telerik.Sitefinity.Modules.Pages.PropertyPersisters.ObjectDataUtility.GetPropertyValue(PropertyDescriptor descriptor, Object component)
+
+Additional Info:
+
+MachineName : MILCHEVA
+TimeStamp : 2/26/2014 4:21:49 PM
+FullName : Telerik.Sitefinity.Utilities, Version=6.3.5000.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+AppDomainName : 8d9b9c5b-1-130379052822297973
+ThreadIdentity : 
+WindowsIdentity : TELERIK\milcheva
+Requested URL : http://localhost:22224/default.aspx
+	Inner Exception
+	---------------
+	Type : System.NullReferenceException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+	Message : Object reference not set to an instance of an object.
+	Source : Telerik.Sitefinity
+	Help link : 
+	Data : System.Collections.ListDictionaryInternal
+	TargetSite : System.String get_PolicyName()
+	HResult : -2147467261
+	Stack Trace :    at Telerik.Sitefinity.Web.UI.DefinitionBase.get_PolicyName()
+
+
+
+Category: ErrorLog
+
+Priority: 0
+
+EventId: 9010
+
+Severity: Warning
+
+Title:Enterprise Library Exception Handling
+
+Machine: MILCHEVA
+
+App Domain: 8d9b9c5b-1-130379052822297973
+
+ProcessId: 8860
+
+Process Name: C:\Program Files (x86)\Common Files\Microsoft Shared\DevServer\11.0\WebDev.WebServer40.exe
+
+Thread Name: 
+
+Win32 ThreadId:3172
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 2/26/2014 4:21:49 PM
+
+Message: HandlingInstanceID: d4710adf-e7fe-403d-aa18-ebb03218ef1b
+An exception of type 'System.Reflection.TargetInvocationException' occurred and was caught.
+-------------------------------------------------------------------------------------------
+02/26/2014 18:21:49
+Type : System.Reflection.TargetInvocationException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Message : Property accessor 'PolicyName' on object 'Telerik.Sitefinity.Web.UI.ContentUI.Views.Backend.Detail.Definitions.DetailFormViewDefinition' threw the following exception:'Object reference not set to an instance of an object.'
+Source : System
+Help link : 
+Data : System.Collections.ListDictionaryInternal
+TargetSite : System.Object GetValue(System.Object)
+HResult : -2146232828
+Stack Trace :    at System.ComponentModel.ReflectPropertyDescriptor.GetValue(Object component)
+   at Telerik.Sitefinity.Modules.Pages.PropertyPersisters.ObjectDataUtility.GetPropertyValue(PropertyDescriptor descriptor, Object component)
+
+Additional Info:
+
+MachineName : MILCHEVA
+TimeStamp : 2/26/2014 4:21:49 PM
+FullName : Telerik.Sitefinity.Utilities, Version=6.3.5000.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+AppDomainName : 8d9b9c5b-1-130379052822297973
+ThreadIdentity : 
+WindowsIdentity : TELERIK\milcheva
+Requested URL : http://localhost:22224/default.aspx
+	Inner Exception
+	---------------
+	Type : System.NullReferenceException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+	Message : Object reference not set to an instance of an object.
+	Source : Telerik.Sitefinity
+	Help link : 
+	Data : System.Collections.ListDictionaryInternal
+	TargetSite : System.String get_PolicyName()
+	HResult : -2147467261
+	Stack Trace :    at Telerik.Sitefinity.Web.UI.DefinitionBase.get_PolicyName()
+
+
+
+Category: ErrorLog
+
+Priority: 0
+
+EventId: 9010
+
+Severity: Warning
+
+Title:Enterprise Library Exception Handling
+
+Machine: MILCHEVA
+
+App Domain: 8d9b9c5b-1-130379052822297973
+
+ProcessId: 8860
+
+Process Name: C:\Program Files (x86)\Common Files\Microsoft Shared\DevServer\11.0\WebDev.WebServer40.exe
+
+Thread Name: 
+
+Win32 ThreadId:3172
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 2/26/2014 4:21:49 PM
+
+Message: HandlingInstanceID: e0f19701-400e-411f-8fb5-f3d7019a459f
+An exception of type 'System.Reflection.TargetInvocationException' occurred and was caught.
+-------------------------------------------------------------------------------------------
+02/26/2014 18:21:49
+Type : System.Reflection.TargetInvocationException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Message : Property accessor 'PolicyName' on object 'Telerik.Sitefinity.Web.UI.ContentUI.Views.Backend.Detail.Definitions.DetailFormViewDefinition' threw the following exception:'Object reference not set to an instance of an object.'
+Source : System
+Help link : 
+Data : System.Collections.ListDictionaryInternal
+TargetSite : System.Object GetValue(System.Object)
+HResult : -2146232828
+Stack Trace :    at System.ComponentModel.ReflectPropertyDescriptor.GetValue(Object component)
+   at Telerik.Sitefinity.Modules.Pages.PropertyPersisters.ObjectDataUtility.GetPropertyValue(PropertyDescriptor descriptor, Object component)
+
+Additional Info:
+
+MachineName : MILCHEVA
+TimeStamp : 2/26/2014 4:21:49 PM
+FullName : Telerik.Sitefinity.Utilities, Version=6.3.5000.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+AppDomainName : 8d9b9c5b-1-130379052822297973
+ThreadIdentity : 
+WindowsIdentity : TELERIK\milcheva
+Requested URL : http://localhost:22224/default.aspx
+	Inner Exception
+	---------------
+	Type : System.NullReferenceException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+	Message : Object reference not set to an instance of an object.
+	Source : Telerik.Sitefinity
+	Help link : 
+	Data : System.Collections.ListDictionaryInternal
+	TargetSite : System.String get_PolicyName()
+	HResult : -2147467261
+	Stack Trace :    at Telerik.Sitefinity.Web.UI.DefinitionBase.get_PolicyName()
+
+
+
+Category: ErrorLog
+
+Priority: 0
+
+EventId: 9010
+
+Severity: Warning
+
+Title:Enterprise Library Exception Handling
+
+Machine: MILCHEVA
+
+App Domain: 8d9b9c5b-1-130379052822297973
+
+ProcessId: 8860
+
+Process Name: C:\Program Files (x86)\Common Files\Microsoft Shared\DevServer\11.0\WebDev.WebServer40.exe
+
+Thread Name: 
+
+Win32 ThreadId:3172
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 2/26/2014 4:21:49 PM
+
+Message: HandlingInstanceID: 54e14b6d-5c06-4c4b-97a3-258553c53475
+An exception of type 'System.Reflection.TargetInvocationException' occurred and was caught.
+-------------------------------------------------------------------------------------------
+02/26/2014 18:21:49
+Type : System.Reflection.TargetInvocationException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Message : Property accessor 'PolicyName' on object 'Telerik.Sitefinity.Web.UI.ContentUI.Views.Backend.Detail.Definitions.DetailFormViewDefinition' threw the following exception:'Object reference not set to an instance of an object.'
+Source : System
+Help link : 
+Data : System.Collections.ListDictionaryInternal
+TargetSite : System.Object GetValue(System.Object)
+HResult : -2146232828
+Stack Trace :    at System.ComponentModel.ReflectPropertyDescriptor.GetValue(Object component)
+   at Telerik.Sitefinity.Modules.Pages.PropertyPersisters.ObjectDataUtility.GetPropertyValue(PropertyDescriptor descriptor, Object component)
+
+Additional Info:
+
+MachineName : MILCHEVA
+TimeStamp : 2/26/2014 4:21:49 PM
+FullName : Telerik.Sitefinity.Utilities, Version=6.3.5000.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+AppDomainName : 8d9b9c5b-1-130379052822297973
+ThreadIdentity : 
+WindowsIdentity : TELERIK\milcheva
+Requested URL : http://localhost:22224/default.aspx
+	Inner Exception
+	---------------
+	Type : System.NullReferenceException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+	Message : Object reference not set to an instance of an object.
+	Source : Telerik.Sitefinity
+	Help link : 
+	Data : System.Collections.ListDictionaryInternal
+	TargetSite : System.String get_PolicyName()
+	HResult : -2147467261
+	Stack Trace :    at Telerik.Sitefinity.Web.UI.DefinitionBase.get_PolicyName()
+
+
+
+Category: ErrorLog
+
+Priority: 0
+
+EventId: 9010
+
+Severity: Warning
+
+Title:Enterprise Library Exception Handling
+
+Machine: MILCHEVA
+
+App Domain: 8d9b9c5b-1-130379052822297973
+
+ProcessId: 8860
+
+Process Name: C:\Program Files (x86)\Common Files\Microsoft Shared\DevServer\11.0\WebDev.WebServer40.exe
+
+Thread Name: 
+
+Win32 ThreadId:3172
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 2/26/2014 4:21:49 PM
+
+Message: HandlingInstanceID: dc38f54d-51b0-47e9-8b5a-d24b6fd11afb
+An exception of type 'System.Reflection.TargetInvocationException' occurred and was caught.
+-------------------------------------------------------------------------------------------
+02/26/2014 18:21:49
+Type : System.Reflection.TargetInvocationException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Message : Property accessor 'PolicyName' on object 'Telerik.Sitefinity.Web.UI.ContentUI.ContentViewControlDefinition' threw the following exception:'Object reference not set to an instance of an object.'
+Source : System
+Help link : 
+Data : System.Collections.ListDictionaryInternal
+TargetSite : System.Object GetValue(System.Object)
+HResult : -2146232828
+Stack Trace :    at System.ComponentModel.ReflectPropertyDescriptor.GetValue(Object component)
+   at Telerik.Sitefinity.Modules.Pages.PropertyPersisters.ObjectDataUtility.GetPropertyValue(PropertyDescriptor descriptor, Object component)
+
+Additional Info:
+
+MachineName : MILCHEVA
+TimeStamp : 2/26/2014 4:21:49 PM
+FullName : Telerik.Sitefinity.Utilities, Version=6.3.5000.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+AppDomainName : 8d9b9c5b-1-130379052822297973
+ThreadIdentity : 
+WindowsIdentity : TELERIK\milcheva
+Requested URL : http://localhost:22224/default.aspx
+	Inner Exception
+	---------------
+	Type : System.NullReferenceException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+	Message : Object reference not set to an instance of an object.
+	Source : Telerik.Sitefinity
+	Help link : 
+	Data : System.Collections.ListDictionaryInternal
+	TargetSite : System.String get_PolicyName()
+	HResult : -2147467261
+	Stack Trace :    at Telerik.Sitefinity.Web.UI.DefinitionBase.get_PolicyName()
+
+
+
+Category: ErrorLog
+
+Priority: 0
+
+EventId: 9010
+
+Severity: Warning
+
+Title:Enterprise Library Exception Handling
+
+Machine: MILCHEVA
+
+App Domain: 8d9b9c5b-1-130379052822297973
+
+ProcessId: 8860
+
+Process Name: C:\Program Files (x86)\Common Files\Microsoft Shared\DevServer\11.0\WebDev.WebServer40.exe
+
+Thread Name: 
+
+Win32 ThreadId:3172
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 2/26/2014 4:21:49 PM
+
+Message: HandlingInstanceID: 17e8c833-c796-47f4-bbd7-c8c114574a99
+An exception of type 'System.Reflection.TargetInvocationException' occurred and was caught.
+-------------------------------------------------------------------------------------------
+02/26/2014 18:21:49
+Type : System.Reflection.TargetInvocationException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Message : Property accessor 'PolicyName' on object 'Telerik.Sitefinity.Web.UI.ContentUI.ContentViewControlDefinition' threw the following exception:'Object reference not set to an instance of an object.'
+Source : System
+Help link : 
+Data : System.Collections.ListDictionaryInternal
+TargetSite : System.Object GetValue(System.Object)
+HResult : -2146232828
+Stack Trace :    at System.ComponentModel.ReflectPropertyDescriptor.GetValue(Object component)
+   at Telerik.Sitefinity.Modules.Pages.PropertyPersisters.ObjectDataUtility.GetPropertyValue(PropertyDescriptor descriptor, Object component)
+
+Additional Info:
+
+MachineName : MILCHEVA
+TimeStamp : 2/26/2014 4:21:49 PM
+FullName : Telerik.Sitefinity.Utilities, Version=6.3.5000.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+AppDomainName : 8d9b9c5b-1-130379052822297973
+ThreadIdentity : 
+WindowsIdentity : TELERIK\milcheva
+Requested URL : http://localhost:22224/default.aspx
+	Inner Exception
+	---------------
+	Type : System.NullReferenceException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+	Message : Object reference not set to an instance of an object.
+	Source : Telerik.Sitefinity
+	Help link : 
+	Data : System.Collections.ListDictionaryInternal
+	TargetSite : System.String get_PolicyName()
+	HResult : -2147467261
+	Stack Trace :    at Telerik.Sitefinity.Web.UI.DefinitionBase.get_PolicyName()
+
+
+
+Category: ErrorLog
+
+Priority: 0
+
+EventId: 9010
+
+Severity: Warning
+
+Title:Enterprise Library Exception Handling
+
+Machine: MILCHEVA
+
+App Domain: 8d9b9c5b-1-130379052822297973
+
+ProcessId: 8860
+
+Process Name: C:\Program Files (x86)\Common Files\Microsoft Shared\DevServer\11.0\WebDev.WebServer40.exe
+
+Thread Name: 
+
+Win32 ThreadId:3172
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 2/26/2014 4:21:49 PM
+
+Message: HandlingInstanceID: fca594b4-bc08-47d8-9922-d633c19decc3
+An exception of type 'System.Reflection.TargetInvocationException' occurred and was caught.
+-------------------------------------------------------------------------------------------
+02/26/2014 18:21:49
+Type : System.Reflection.TargetInvocationException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Message : Property accessor 'PolicyName' on object 'Telerik.Sitefinity.Web.UI.ContentUI.Views.Backend.Master.Definitions.MasterGridViewDefinition' threw the following exception:'Object reference not set to an instance of an object.'
+Source : System
+Help link : 
+Data : System.Collections.ListDictionaryInternal
+TargetSite : System.Object GetValue(System.Object)
+HResult : -2146232828
+Stack Trace :    at System.ComponentModel.ReflectPropertyDescriptor.GetValue(Object component)
+   at Telerik.Sitefinity.Modules.Pages.PropertyPersisters.ObjectDataUtility.GetPropertyValue(PropertyDescriptor descriptor, Object component)
+
+Additional Info:
+
+MachineName : MILCHEVA
+TimeStamp : 2/26/2014 4:21:49 PM
+FullName : Telerik.Sitefinity.Utilities, Version=6.3.5000.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+AppDomainName : 8d9b9c5b-1-130379052822297973
+ThreadIdentity : 
+WindowsIdentity : TELERIK\milcheva
+Requested URL : http://localhost:22224/default.aspx
+	Inner Exception
+	---------------
+	Type : System.NullReferenceException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+	Message : Object reference not set to an instance of an object.
+	Source : Telerik.Sitefinity
+	Help link : 
+	Data : System.Collections.ListDictionaryInternal
+	TargetSite : System.String get_PolicyName()
+	HResult : -2147467261
+	Stack Trace :    at Telerik.Sitefinity.Web.UI.DefinitionBase.get_PolicyName()
+
+
+
+Category: ErrorLog
+
+Priority: 0
+
+EventId: 9010
+
+Severity: Warning
+
+Title:Enterprise Library Exception Handling
+
+Machine: MILCHEVA
+
+App Domain: 8d9b9c5b-1-130379052822297973
+
+ProcessId: 8860
+
+Process Name: C:\Program Files (x86)\Common Files\Microsoft Shared\DevServer\11.0\WebDev.WebServer40.exe
+
+Thread Name: 
+
+Win32 ThreadId:3172
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 2/26/2014 4:21:49 PM
+
+Message: HandlingInstanceID: 221aaba2-ef3a-49ac-9744-df84959673dd
+An exception of type 'System.Reflection.TargetInvocationException' occurred and was caught.
+-------------------------------------------------------------------------------------------
+02/26/2014 18:21:49
+Type : System.Reflection.TargetInvocationException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Message : Property accessor 'PolicyName' on object 'Telerik.Sitefinity.Web.UI.ContentUI.Views.Backend.Master.Definitions.MasterGridViewDefinition' threw the following exception:'Object reference not set to an instance of an object.'
+Source : System
+Help link : 
+Data : System.Collections.ListDictionaryInternal
+TargetSite : System.Object GetValue(System.Object)
+HResult : -2146232828
+Stack Trace :    at System.ComponentModel.ReflectPropertyDescriptor.GetValue(Object component)
+   at Telerik.Sitefinity.Modules.Pages.PropertyPersisters.ObjectDataUtility.GetPropertyValue(PropertyDescriptor descriptor, Object component)
+
+Additional Info:
+
+MachineName : MILCHEVA
+TimeStamp : 2/26/2014 4:21:49 PM
+FullName : Telerik.Sitefinity.Utilities, Version=6.3.5000.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+AppDomainName : 8d9b9c5b-1-130379052822297973
+ThreadIdentity : 
+WindowsIdentity : TELERIK\milcheva
+Requested URL : http://localhost:22224/default.aspx
+	Inner Exception
+	---------------
+	Type : System.NullReferenceException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+	Message : Object reference not set to an instance of an object.
+	Source : Telerik.Sitefinity
+	Help link : 
+	Data : System.Collections.ListDictionaryInternal
+	TargetSite : System.String get_PolicyName()
+	HResult : -2147467261
+	Stack Trace :    at Telerik.Sitefinity.Web.UI.DefinitionBase.get_PolicyName()
+
+
+
+Category: ErrorLog
+
+Priority: 0
+
+EventId: 9010
+
+Severity: Warning
+
+Title:Enterprise Library Exception Handling
+
+Machine: MILCHEVA
+
+App Domain: 8d9b9c5b-1-130379052822297973
+
+ProcessId: 8860
+
+Process Name: C:\Program Files (x86)\Common Files\Microsoft Shared\DevServer\11.0\WebDev.WebServer40.exe
+
+Thread Name: 
+
+Win32 ThreadId:3172
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 2/26/2014 4:21:49 PM
+
+Message: HandlingInstanceID: 264c6bb7-7fb4-4c5f-9f30-7aabb587efd2
+An exception of type 'System.Reflection.TargetInvocationException' occurred and was caught.
+-------------------------------------------------------------------------------------------
+02/26/2014 18:21:49
+Type : System.Reflection.TargetInvocationException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Message : Property accessor 'PolicyName' on object 'Telerik.Sitefinity.Web.UI.ContentUI.Views.Backend.Detail.Definitions.DetailFormViewDefinition' threw the following exception:'Object reference not set to an instance of an object.'
+Source : System
+Help link : 
+Data : System.Collections.ListDictionaryInternal
+TargetSite : System.Object GetValue(System.Object)
+HResult : -2146232828
+Stack Trace :    at System.ComponentModel.ReflectPropertyDescriptor.GetValue(Object component)
+   at Telerik.Sitefinity.Modules.Pages.PropertyPersisters.ObjectDataUtility.GetPropertyValue(PropertyDescriptor descriptor, Object component)
+
+Additional Info:
+
+MachineName : MILCHEVA
+TimeStamp : 2/26/2014 4:21:49 PM
+FullName : Telerik.Sitefinity.Utilities, Version=6.3.5000.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+AppDomainName : 8d9b9c5b-1-130379052822297973
+ThreadIdentity : 
+WindowsIdentity : TELERIK\milcheva
+Requested URL : http://localhost:22224/default.aspx
+	Inner Exception
+	---------------
+	Type : System.NullReferenceException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+	Message : Object reference not set to an instance of an object.
+	Source : Telerik.Sitefinity
+	Help link : 
+	Data : System.Collections.ListDictionaryInternal
+	TargetSite : System.String get_PolicyName()
+	HResult : -2147467261
+	Stack Trace :    at Telerik.Sitefinity.Web.UI.DefinitionBase.get_PolicyName()
+
+
+
+Category: ErrorLog
+
+Priority: 0
+
+EventId: 9010
+
+Severity: Warning
+
+Title:Enterprise Library Exception Handling
+
+Machine: MILCHEVA
+
+App Domain: 8d9b9c5b-1-130379052822297973
+
+ProcessId: 8860
+
+Process Name: C:\Program Files (x86)\Common Files\Microsoft Shared\DevServer\11.0\WebDev.WebServer40.exe
+
+Thread Name: 
+
+Win32 ThreadId:3172
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 2/26/2014 4:21:49 PM
+
+Message: HandlingInstanceID: c501fae6-d2a7-482a-b54b-c8b6e50a3df5
+An exception of type 'System.Reflection.TargetInvocationException' occurred and was caught.
+-------------------------------------------------------------------------------------------
+02/26/2014 18:21:49
+Type : System.Reflection.TargetInvocationException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Message : Property accessor 'PolicyName' on object 'Telerik.Sitefinity.Web.UI.ContentUI.Views.Backend.Detail.Definitions.DetailFormViewDefinition' threw the following exception:'Object reference not set to an instance of an object.'
+Source : System
+Help link : 
+Data : System.Collections.ListDictionaryInternal
+TargetSite : System.Object GetValue(System.Object)
+HResult : -2146232828
+Stack Trace :    at System.ComponentModel.ReflectPropertyDescriptor.GetValue(Object component)
+   at Telerik.Sitefinity.Modules.Pages.PropertyPersisters.ObjectDataUtility.GetPropertyValue(PropertyDescriptor descriptor, Object component)
+
+Additional Info:
+
+MachineName : MILCHEVA
+TimeStamp : 2/26/2014 4:21:49 PM
+FullName : Telerik.Sitefinity.Utilities, Version=6.3.5000.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+AppDomainName : 8d9b9c5b-1-130379052822297973
+ThreadIdentity : 
+WindowsIdentity : TELERIK\milcheva
+Requested URL : http://localhost:22224/default.aspx
+	Inner Exception
+	---------------
+	Type : System.NullReferenceException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+	Message : Object reference not set to an instance of an object.
+	Source : Telerik.Sitefinity
+	Help link : 
+	Data : System.Collections.ListDictionaryInternal
+	TargetSite : System.String get_PolicyName()
+	HResult : -2147467261
+	Stack Trace :    at Telerik.Sitefinity.Web.UI.DefinitionBase.get_PolicyName()
+
+
+
+Category: ErrorLog
+
+Priority: 0
+
+EventId: 9010
+
+Severity: Warning
+
+Title:Enterprise Library Exception Handling
+
+Machine: MILCHEVA
+
+App Domain: 8d9b9c5b-1-130379052822297973
+
+ProcessId: 8860
+
+Process Name: C:\Program Files (x86)\Common Files\Microsoft Shared\DevServer\11.0\WebDev.WebServer40.exe
+
+Thread Name: 
+
+Win32 ThreadId:3172
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 2/26/2014 4:21:49 PM
+
+Message: HandlingInstanceID: cbced9a5-1ddc-4bfc-b98c-e4fdf4b92f2b
+An exception of type 'System.Reflection.TargetInvocationException' occurred and was caught.
+-------------------------------------------------------------------------------------------
+02/26/2014 18:21:49
+Type : System.Reflection.TargetInvocationException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Message : Property accessor 'PolicyName' on object 'Telerik.Sitefinity.Web.UI.ContentUI.Views.Backend.Detail.Definitions.DetailFormViewDefinition' threw the following exception:'Object reference not set to an instance of an object.'
+Source : System
+Help link : 
+Data : System.Collections.ListDictionaryInternal
+TargetSite : System.Object GetValue(System.Object)
+HResult : -2146232828
+Stack Trace :    at System.ComponentModel.ReflectPropertyDescriptor.GetValue(Object component)
+   at Telerik.Sitefinity.Modules.Pages.PropertyPersisters.ObjectDataUtility.GetPropertyValue(PropertyDescriptor descriptor, Object component)
+
+Additional Info:
+
+MachineName : MILCHEVA
+TimeStamp : 2/26/2014 4:21:49 PM
+FullName : Telerik.Sitefinity.Utilities, Version=6.3.5000.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+AppDomainName : 8d9b9c5b-1-130379052822297973
+ThreadIdentity : 
+WindowsIdentity : TELERIK\milcheva
+Requested URL : http://localhost:22224/default.aspx
+	Inner Exception
+	---------------
+	Type : System.NullReferenceException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+	Message : Object reference not set to an instance of an object.
+	Source : Telerik.Sitefinity
+	Help link : 
+	Data : System.Collections.ListDictionaryInternal
+	TargetSite : System.String get_PolicyName()
+	HResult : -2147467261
+	Stack Trace :    at Telerik.Sitefinity.Web.UI.DefinitionBase.get_PolicyName()
+
+
+
+Category: ErrorLog
+
+Priority: 0
+
+EventId: 9010
+
+Severity: Warning
+
+Title:Enterprise Library Exception Handling
+
+Machine: MILCHEVA
+
+App Domain: 8d9b9c5b-1-130379052822297973
+
+ProcessId: 8860
+
+Process Name: C:\Program Files (x86)\Common Files\Microsoft Shared\DevServer\11.0\WebDev.WebServer40.exe
+
+Thread Name: 
+
+Win32 ThreadId:3172
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 2/26/2014 4:21:49 PM
+
+Message: HandlingInstanceID: e5741611-9fb6-4d85-a18c-5a12cf918fa7
+An exception of type 'System.Reflection.TargetInvocationException' occurred and was caught.
+-------------------------------------------------------------------------------------------
+02/26/2014 18:21:49
+Type : System.Reflection.TargetInvocationException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Message : Property accessor 'PolicyName' on object 'Telerik.Sitefinity.Web.UI.ContentUI.Views.Backend.Detail.Definitions.DetailFormViewDefinition' threw the following exception:'Object reference not set to an instance of an object.'
+Source : System
+Help link : 
+Data : System.Collections.ListDictionaryInternal
+TargetSite : System.Object GetValue(System.Object)
+HResult : -2146232828
+Stack Trace :    at System.ComponentModel.ReflectPropertyDescriptor.GetValue(Object component)
+   at Telerik.Sitefinity.Modules.Pages.PropertyPersisters.ObjectDataUtility.GetPropertyValue(PropertyDescriptor descriptor, Object component)
+
+Additional Info:
+
+MachineName : MILCHEVA
+TimeStamp : 2/26/2014 4:21:49 PM
+FullName : Telerik.Sitefinity.Utilities, Version=6.3.5000.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+AppDomainName : 8d9b9c5b-1-130379052822297973
+ThreadIdentity : 
+WindowsIdentity : TELERIK\milcheva
+Requested URL : http://localhost:22224/default.aspx
+	Inner Exception
+	---------------
+	Type : System.NullReferenceException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+	Message : Object reference not set to an instance of an object.
+	Source : Telerik.Sitefinity
+	Help link : 
+	Data : System.Collections.ListDictionaryInternal
+	TargetSite : System.String get_PolicyName()
+	HResult : -2147467261
+	Stack Trace :    at Telerik.Sitefinity.Web.UI.DefinitionBase.get_PolicyName()
+
+
+
+Category: ErrorLog
+
+Priority: 0
+
+EventId: 9010
+
+Severity: Warning
+
+Title:Enterprise Library Exception Handling
+
+Machine: MILCHEVA
+
+App Domain: 8d9b9c5b-1-130379052822297973
+
+ProcessId: 8860
+
+Process Name: C:\Program Files (x86)\Common Files\Microsoft Shared\DevServer\11.0\WebDev.WebServer40.exe
+
+Thread Name: 
+
+Win32 ThreadId:3172
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 2/26/2014 4:21:49 PM
+
+Message: HandlingInstanceID: 352b3917-45b0-4ddc-84b3-1df155bb13d0
+An exception of type 'System.Reflection.TargetInvocationException' occurred and was caught.
+-------------------------------------------------------------------------------------------
+02/26/2014 18:21:49
+Type : System.Reflection.TargetInvocationException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Message : Property accessor 'PolicyName' on object 'Telerik.Sitefinity.Web.UI.ContentUI.ContentViewControlDefinition' threw the following exception:'Object reference not set to an instance of an object.'
+Source : System
+Help link : 
+Data : System.Collections.ListDictionaryInternal
+TargetSite : System.Object GetValue(System.Object)
+HResult : -2146232828
+Stack Trace :    at System.ComponentModel.ReflectPropertyDescriptor.GetValue(Object component)
+   at Telerik.Sitefinity.Modules.Pages.PropertyPersisters.ObjectDataUtility.GetPropertyValue(PropertyDescriptor descriptor, Object component)
+
+Additional Info:
+
+MachineName : MILCHEVA
+TimeStamp : 2/26/2014 4:21:49 PM
+FullName : Telerik.Sitefinity.Utilities, Version=6.3.5000.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+AppDomainName : 8d9b9c5b-1-130379052822297973
+ThreadIdentity : 
+WindowsIdentity : TELERIK\milcheva
+Requested URL : http://localhost:22224/default.aspx
+	Inner Exception
+	---------------
+	Type : System.NullReferenceException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+	Message : Object reference not set to an instance of an object.
+	Source : Telerik.Sitefinity
+	Help link : 
+	Data : System.Collections.ListDictionaryInternal
+	TargetSite : System.String get_PolicyName()
+	HResult : -2147467261
+	Stack Trace :    at Telerik.Sitefinity.Web.UI.DefinitionBase.get_PolicyName()
+
+
+
+Category: ErrorLog
+
+Priority: 0
+
+EventId: 9010
+
+Severity: Warning
+
+Title:Enterprise Library Exception Handling
+
+Machine: MILCHEVA
+
+App Domain: 8d9b9c5b-1-130379052822297973
+
+ProcessId: 8860
+
+Process Name: C:\Program Files (x86)\Common Files\Microsoft Shared\DevServer\11.0\WebDev.WebServer40.exe
+
+Thread Name: 
+
+Win32 ThreadId:3172
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 2/26/2014 4:21:49 PM
+
+Message: HandlingInstanceID: 9f6f94eb-3794-4bd3-82cf-fe25e7d20e09
+An exception of type 'System.Reflection.TargetInvocationException' occurred and was caught.
+-------------------------------------------------------------------------------------------
+02/26/2014 18:21:49
+Type : System.Reflection.TargetInvocationException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Message : Property accessor 'PolicyName' on object 'Telerik.Sitefinity.Web.UI.ContentUI.ContentViewControlDefinition' threw the following exception:'Object reference not set to an instance of an object.'
+Source : System
+Help link : 
+Data : System.Collections.ListDictionaryInternal
+TargetSite : System.Object GetValue(System.Object)
+HResult : -2146232828
+Stack Trace :    at System.ComponentModel.ReflectPropertyDescriptor.GetValue(Object component)
+   at Telerik.Sitefinity.Modules.Pages.PropertyPersisters.ObjectDataUtility.GetPropertyValue(PropertyDescriptor descriptor, Object component)
+
+Additional Info:
+
+MachineName : MILCHEVA
+TimeStamp : 2/26/2014 4:21:49 PM
+FullName : Telerik.Sitefinity.Utilities, Version=6.3.5000.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+AppDomainName : 8d9b9c5b-1-130379052822297973
+ThreadIdentity : 
+WindowsIdentity : TELERIK\milcheva
+Requested URL : http://localhost:22224/default.aspx
+	Inner Exception
+	---------------
+	Type : System.NullReferenceException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+	Message : Object reference not set to an instance of an object.
+	Source : Telerik.Sitefinity
+	Help link : 
+	Data : System.Collections.ListDictionaryInternal
+	TargetSite : System.String get_PolicyName()
+	HResult : -2147467261
+	Stack Trace :    at Telerik.Sitefinity.Web.UI.DefinitionBase.get_PolicyName()
+
+
+
+Category: ErrorLog
+
+Priority: 0
+
+EventId: 9010
+
+Severity: Warning
+
+Title:Enterprise Library Exception Handling
+
+Machine: MILCHEVA
+
+App Domain: 8d9b9c5b-1-130379052822297973
+
+ProcessId: 8860
+
+Process Name: C:\Program Files (x86)\Common Files\Microsoft Shared\DevServer\11.0\WebDev.WebServer40.exe
+
+Thread Name: 
+
+Win32 ThreadId:3172
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 2/26/2014 4:23:03 PM
+
+Message: HandlingInstanceID: 5a116444-64a6-4aeb-b7d3-21c0acac3c15
+An exception of type 'System.Web.HttpException' occurred and was caught.
+------------------------------------------------------------------------
+02/26/2014 18:23:03
+Type : System.Web.HttpException, System.Web, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+Message : File does not exist.
+Source : System.Web
+Help link : 
+WebEventCode : 0
+ErrorCode : -2147467259
+Data : System.Collections.ListDictionaryInternal
+TargetSite : Boolean ProcessRequestForNonMapPathBasedVirtualFile(System.Web.HttpRequest, System.Web.HttpResponse, System.String)
+HResult : -2147467259
+Stack Trace :    at System.Web.StaticFileHandler.ProcessRequestForNonMapPathBasedVirtualFile(HttpRequest request, HttpResponse response, String overrideVirtualPath)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context, String overrideVirtualPath)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+Additional Info:
+
+MachineName : MILCHEVA
+TimeStamp : 2/26/2014 4:23:03 PM
+FullName : Telerik.Sitefinity.Utilities, Version=6.3.5000.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+AppDomainName : 8d9b9c5b-1-130379052822297973
+ThreadIdentity : 
+WindowsIdentity : TELERIK\milcheva
+Requested URL : http://localhost:22224/favicon.ico
+
+
+Category: ErrorLog
+
+Priority: 0
+
+EventId: 90000
+
+Severity: Error
+
+Title:Enterprise Library Exception Handling
+
+Machine: MILCHEVA
+
+App Domain: 8d9b9c5b-1-130379052822297973
+
+ProcessId: 8860
+
+Process Name: C:\Program Files (x86)\Common Files\Microsoft Shared\DevServer\11.0\WebDev.WebServer40.exe
+
+Thread Name: 
+
+Win32 ThreadId:3496
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 2/26/2014 4:25:11 PM
+
+Message: HandlingInstanceID: 77edc199-9988-4008-a4da-6b898831d303
+An exception of type 'System.ArgumentNullException' occurred and was caught.
+----------------------------------------------------------------------------
+02/26/2014 18:25:11
+Type : System.ArgumentNullException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Message : Value cannot be null.
+Parameter name: source
+Source : System.Core
+Help link : 
+ParamName : source
+Data : System.Collections.ListDictionaryInternal
+TargetSite : System.Collections.Generic.IEnumerable`1[TResult] Select[TSource,TResult](System.Collections.Generic.IEnumerable`1[TSource], System.Func`2[TSource,TResult])
+HResult : -2147467261
+Stack Trace :    at System.Linq.Enumerable.Select[TSource,TResult](IEnumerable`1 source, Func`2 selector)
+   at Telerik.Sitefinity.Data.ManagerExtensions.GetSiteProviders(IManager manager, Guid siteId)
+   at Telerik.Sitefinity.Data.ManagerBase`1.GetContextProviders()
+   at Telerik.Sitefinity.Web.UI.Backend.FlatProviderSelector.get_Providers()
+   at Telerik.Sitefinity.Web.UI.Backend.FlatProviderSelector.set_Manager(IManager value)
+   at Telerik.Sitefinity.Web.UI.ContentUI.Views.Backend.Master.MasterGridView.BindProvidersList()
+   at Telerik.Sitefinity.Web.UI.ContentUI.Views.Backend.Master.MasterGridView.InitializeControls(GenericContainer container, IContentViewDefinition definition)
+   at Telerik.Sitefinity.Web.UI.ContentUI.Views.Backend.ViewBase.CreateChildControls()
+
+Additional Info:
+
+MachineName : MILCHEVA
+TimeStamp : 2/26/2014 4:25:11 PM
+FullName : Telerik.Sitefinity.Utilities, Version=6.3.5000.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+AppDomainName : 8d9b9c5b-1-130379052822297973
+ThreadIdentity : admin
+WindowsIdentity : TELERIK\milcheva
+Requested URL : http://localhost:22224/Sitefinity/Content/Blogs
+
+
+Category: ErrorLog
+
+Priority: 0
+
+EventId: 9010
+
+Severity: Warning
+
+Title:Enterprise Library Exception Handling
+
+Machine: MILCHEVA
+
+App Domain: 8d9b9c5b-1-130379052822297973
+
+ProcessId: 8860
+
+Process Name: C:\Program Files (x86)\Common Files\Microsoft Shared\DevServer\11.0\WebDev.WebServer40.exe
+
+Thread Name: 
+
+Win32 ThreadId:8632
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 2/26/2014 4:25:16 PM
+
+Message: HandlingInstanceID: 40f89da0-0397-4765-a535-535708537974
+An exception of type 'System.Web.HttpException' occurred and was caught.
+------------------------------------------------------------------------
+02/26/2014 18:25:16
+Type : System.Web.HttpException, System.Web, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+Message : File does not exist.
+Source : System.Web
+Help link : 
+WebEventCode : 0
+ErrorCode : -2147467259
+Data : System.Collections.ListDictionaryInternal
+TargetSite : Boolean ProcessRequestForNonMapPathBasedVirtualFile(System.Web.HttpRequest, System.Web.HttpResponse, System.String)
+HResult : -2147467259
+Stack Trace :    at System.Web.StaticFileHandler.ProcessRequestForNonMapPathBasedVirtualFile(HttpRequest request, HttpResponse response, String overrideVirtualPath)
+   at System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context, String overrideVirtualPath)
+   at System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+Additional Info:
+
+MachineName : MILCHEVA
+TimeStamp : 2/26/2014 4:25:16 PM
+FullName : Telerik.Sitefinity.Utilities, Version=6.3.5000.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+AppDomainName : 8d9b9c5b-1-130379052822297973
+ThreadIdentity : admin
+WindowsIdentity : TELERIK\milcheva
+Requested URL : http://localhost:22224/jquery.min.map
+
+
+Category: ErrorLog
+
+Priority: 0
+
+EventId: 90000
+
+Severity: Error
+
+Title:Enterprise Library Exception Handling
+
+Machine: MILCHEVA
+
+App Domain: 8d9b9c5b-1-130379052822297973
+
+ProcessId: 8860
+
+Process Name: C:\Program Files (x86)\Common Files\Microsoft Shared\DevServer\11.0\WebDev.WebServer40.exe
+
+Thread Name: 
+
+Win32 ThreadId:5608
+
+Extended Properties: 
+----------------------------------------
+----------------------------------------
+Timestamp: 2/26/2014 4:25:21 PM
+
+Message: HandlingInstanceID: 97fe727c-705c-4e1e-86a7-e96f9d4bfd0a
+An exception of type 'System.ArgumentNullException' occurred and was caught.
+----------------------------------------------------------------------------
+02/26/2014 18:25:21
+Type : System.ArgumentNullException, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Message : Value cannot be null.
+Parameter name: source
+Source : System.Core
+Help link : 
+ParamName : source
+Data : System.Collections.ListDictionaryInternal
+TargetSite : System.Collections.Generic.IEnumerable`1[TResult] Select[TSource,TResult](System.Collections.Generic.IEnumerable`1[TSource], System.Func`2[TSource,TResult])
+HResult : -2147467261
+Stack Trace :    at System.Linq.Enumerable.Select[TSource,TResult](IEnumerable`1 source, Func`2 selector)
+   at Telerik.Sitefinity.Data.ManagerExtensions.GetSiteProviders(IManager manager, Guid siteId)
+   at Telerik.Sitefinity.Data.ManagerBase`1.GetContextProviders()
+   at Telerik.Sitefinity.Web.UI.Backend.FlatProviderSelector.get_Providers()
+   at Telerik.Sitefinity.Web.UI.Backend.FlatProviderSelector.set_Manager(IManager value)
+   at Telerik.Sitefinity.Web.UI.ContentUI.Views.Backend.Master.MasterGridView.BindProvidersList()
+   at Telerik.Sitefinity.Web.UI.ContentUI.Views.Backend.Master.MasterGridView.InitializeControls(GenericContainer container, IContentViewDefinition definition)
+   at Telerik.Sitefinity.Web.UI.ContentUI.Views.Backend.ViewBase.CreateChildControls()
+
+Additional Info:
+
+MachineName : MILCHEVA
+TimeStamp : 2/26/2014 4:25:21 PM
+FullName : Telerik.Sitefinity.Utilities, Version=6.3.5000.0, Culture=neutral, PublicKeyToken=b28c218413bdf563
+AppDomainName : 8d9b9c5b-1-130379052822297973
+ThreadIdentity : admin
+WindowsIdentity : TELERIK\milcheva
+Requested URL : http://localhost:22224/Sitefinity/Content/Blogs
+
+
+Category: ErrorLog
+
+Priority: 0
+
+EventId: 9010
+
+Severity: Warning
+
+Title:Enterprise Library Exception Handling
+
+Machine: MILCHEVA
+
+App Domain: 8d9b9c5b-1-130379052822297973
+
+ProcessId: 8860
+
+Process Name: C:\Program Files (x86)\Common Files\Microsoft Shared\DevServer\11.0\WebDev.WebServer40.exe
+
+Thread Name: 
+
+Win32 ThreadId:9028
+
+Extended Properties: 
+----------------------------------------
