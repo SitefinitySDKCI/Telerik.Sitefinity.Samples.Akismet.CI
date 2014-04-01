@@ -48,10 +48,12 @@
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.Data" />
     <Reference Include="System.Xml" />
-    <Reference Include="Telerik.JustMock">
+    <Reference Include="Telerik.JustMock, Version=2014.1.1519.1, Culture=neutral, PublicKeyToken=721b6c5bc0326b3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
       <HintPath>..\SitefinityWebApp\packages\JustMock.2014.1.1519.1\lib\Net35\Telerik.JustMock.dll</HintPath>
     </Reference>
-    <Reference Include="Telerik.JustMock.Container">
+    <Reference Include="Telerik.JustMock.Container, Version=2014.1.1519.1, Culture=neutral, PublicKeyToken=721b6c5bc0326b3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
       <HintPath>..\SitefinityWebApp\packages\JustMock.2014.1.1519.1\lib\Net35\Telerik.JustMock.Container.dll</HintPath>
     </Reference>
   </ItemGroup>

@@ -12,15 +12,15 @@ namespace AkismetUnitTests
     [TestFixture]
     public class TestsSuite
     {
-        [Test]
-        [Author("Very Doge")]
-        [Description("Much testing. WOW")]
-        public static void TestingMockingFramework()
-        {
-            var list = Mock.Create<IList>();
-            var counter = 0;
-            Mock.Arrange(() => list.Add(1)).DoInstead(() => counter++);
-            Assert.AreEqual(list.Count, counter);
-        }
+        //[Test]
+        //[Author("Very Doge")]
+        //[Description("Much testing. WOW")]
+        //public static void TestingMockingFramework()
+        //{
+        //    var list = Mock.Create<IList>();
+        //    var counter = 0;
+        //    Mock.Arrange(() => list.Add(1)).DoInstead(() => counter++);
+        //    Assert.AreEqual(list.Count, counter);
+        //}
     }
 }
