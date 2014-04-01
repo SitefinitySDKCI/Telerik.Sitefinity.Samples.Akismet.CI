@@ -21,5 +21,21 @@ namespace AkismetUnitTests
             Mock.Arrange(() => list.Count).Returns(3);
             Mock.Assert(list);
         }
+
+        [Test]
+        [Author("Nader")]
+        [Description("This is a failing test")]
+        public static void FailingTest()
+        { 
+            Assert.IsTrue(1 == 2);
+        }
+
+        [Test]
+        [Author("Nader")]
+        [Description("This is a passing test")]
+        public static void PassingTest()
+        {
+            Assert.IsTrue(1 == 1);
+        }
     }
 }

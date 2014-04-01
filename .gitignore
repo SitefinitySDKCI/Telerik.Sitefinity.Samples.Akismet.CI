@@ -1,0 +1,11 @@
+*.dll
+*.txt
+*.cache
+*.rtf
+*.pdb
+*.xml
+*.exe
+*.nupkg
+*.user
+*.suo
+*.jmconfig
