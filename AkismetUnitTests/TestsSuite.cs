@@ -22,13 +22,13 @@ namespace AkismetUnitTests
             Mock.Assert(list);
         }
 
-        [Test]
-        [Author("Nader")]
-        [Description("This is a failing test")]
-        public static void FailingTest()
-        { 
-            Assert.IsTrue(1 == 2);
-        }
+        //[Test]
+        //[Author("Nader")]
+        //[Description("This is a failing test")]
+        //public static void FailingTest()
+        //{ 
+        //    Assert.IsTrue(1 == 2);
+        //}
 
         [Test]
         [Author("Nader")]
