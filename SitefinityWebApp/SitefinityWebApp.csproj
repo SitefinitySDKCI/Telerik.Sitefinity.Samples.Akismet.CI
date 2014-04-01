@@ -116,12 +116,6 @@
       <HintPath>..\Reference Assemblies\System.Windows.dll</HintPath>
       <SpecificVersion>False</SpecificVersion>
     </Reference>
-    <Reference Include="Telerik.JustMock">
-      <HintPath>packages\JustMock.2014.1.1519.1\lib\Net35\Telerik.JustMock.dll</HintPath>
-    </Reference>
-    <Reference Include="Telerik.JustMock.Container">
-      <HintPath>packages\JustMock.2014.1.1519.1\lib\Net35\Telerik.JustMock.Container.dll</HintPath>
-    </Reference>
     <Reference Include="Telerik.OpenAccess.Web, Version=2013.3.1211.3, Culture=neutral, PublicKeyToken=7ce17eeaf1d59342">
       <HintPath>..\Reference Assemblies\Telerik.OpenAccess.Web.dll</HintPath>
       <SpecificVersion>False</SpecificVersion>
@@ -765,9 +759,6 @@
     <Content Include="packages\EntityFramework.5.0.0\tools\Redirect.config" />
     <Content Include="packages\EntityFramework.5.0.0\tools\Redirect.VS11.config" />
     <Content Include="packages\repositories.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="packages.config" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
