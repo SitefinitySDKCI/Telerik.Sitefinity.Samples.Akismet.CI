@@ -18,7 +18,7 @@ using Telerik.Sitefinity.Modules.Blogs;
 
 namespace AkismetModule
 {
-    public class AkismetModule : ModuleBase
+    private class AkismetModule : ModuleBase
     {
         public const string ModuleName = "Akismet";
         public static readonly string AkismetResourceClass = "AkismetResources";        
