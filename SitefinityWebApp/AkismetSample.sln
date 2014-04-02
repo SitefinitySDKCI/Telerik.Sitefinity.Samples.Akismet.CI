@@ -17,6 +17,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{C7242E
 		.nuget\NuGet.targets = .nuget\NuGet.targets
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AkismetMsUnitTests", "..\AkismetMsUnitTests\AkismetMsUnitTests.csproj", "{1EF1D2AA-5B26-4F5F-9D47-D905B57820CD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -54,6 +56,12 @@ Global
 		{EA630ECC-C0C4-4E28-B170-296328D791AD}.Release Pro|Any CPU.Build.0 = Release|Any CPU
 		{EA630ECC-C0C4-4E28-B170-296328D791AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA630ECC-C0C4-4E28-B170-296328D791AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EF1D2AA-5B26-4F5F-9D47-D905B57820CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EF1D2AA-5B26-4F5F-9D47-D905B57820CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EF1D2AA-5B26-4F5F-9D47-D905B57820CD}.Release Pro|Any CPU.ActiveCfg = Release|Any CPU
+		{1EF1D2AA-5B26-4F5F-9D47-D905B57820CD}.Release Pro|Any CPU.Build.0 = Release|Any CPU
+		{1EF1D2AA-5B26-4F5F-9D47-D905B57820CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EF1D2AA-5B26-4F5F-9D47-D905B57820CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
