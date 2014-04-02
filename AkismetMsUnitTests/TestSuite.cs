@@ -11,5 +11,11 @@ namespace AkismetMsUnitTests
         {
             Assert.IsTrue(1 == 1);
         }
+
+        [TestMethod]
+        public void FailingMsUnitTest()
+        {
+            Assert.IsTrue(1 == 2);
+        }
     }
 }
