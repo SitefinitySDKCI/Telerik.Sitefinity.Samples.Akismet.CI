@@ -13,9 +13,9 @@ namespace AkismetMsUnitTests
         }
 
         [TestMethod]
-        public void FailingMsUnitTest()
+        public void AnotherPassingMsUnitTest()
         {
-            Assert.IsTrue(1 == 2);
+            Assert.IsTrue(2 == 2);
         }
     }
 }
