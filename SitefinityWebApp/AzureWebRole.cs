@@ -11,5 +11,6 @@ namespace SitefinityWebApp
     /// </remarks>
     public class AzureWebRole : AzureWebRoleBase
     {
+	//to do 
     }
 }
