@@ -10,7 +10,7 @@ using Telerik.Sitefinity.Modules.Blogs.Web.UI;
 
 namespace SitefinityWebApp
 {
-    public class Global : System.Web.HttpApplication
+    private class Global : System.Web.HttpApplication
     {
         private const string SamplesThemeName = "SamplesTheme";
         private const string SamplesThemePath = "~/App_Data/Sitefinity/WebsiteTemplates/Samples/App_Themes/Samples";
@@ -40,7 +40,7 @@ namespace SitefinityWebApp
             Bootstrapper.Initialized += new EventHandler<ExecutedEventArgs>(Bootstrapper_Initialized);
         }
 
-        void Bootstrapper_Initializing(object sender, Telerik.Sitefinity.Data.ExecutingEventArgs e)
+        void Bootstrapper_Initializing1(object sender, Telerik.Sitefinity.Data.ExecutingEventArgs e)
         {
             if (e.CommandName == "RegisterRoutes")
             {
