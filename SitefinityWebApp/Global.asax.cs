@@ -40,7 +40,7 @@ namespace SitefinityWebApp
             Bootstrapper.Initialized += new EventHandler<ExecutedEventArgs>(Bootstrapper_Initialized);
         }
 
-        void Bootstrapper_Initializing1(object sender, Telerik.Sitefinity.Data.ExecutingEventArgs e)
+        void Bootstrapper_Initializing(object sender, Telerik.Sitefinity.Data.ExecutingEventArgs e)
         {
             if (e.CommandName == "RegisterRoutes")
             {
