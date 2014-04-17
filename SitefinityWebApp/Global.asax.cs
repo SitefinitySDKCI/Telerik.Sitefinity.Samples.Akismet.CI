@@ -48,6 +48,7 @@ namespace SitefinityWebApp
             }
         }
 
+		//test
         protected void Bootstrapper_Initialized(object sender, Telerik.Sitefinity.Data.ExecutedEventArgs args)
         {
             if (args.CommandName == "Bootstrapped")
