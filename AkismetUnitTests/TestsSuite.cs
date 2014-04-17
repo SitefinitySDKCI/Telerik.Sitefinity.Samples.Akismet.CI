@@ -35,7 +35,7 @@ namespace AkismetUnitTests
         [Description("This is a passing test")]
         public static void PassingTest()
         {
-            Assert.IsTrue(1 == 2);
+            Assert.IsTrue(1 == 1);
         }
     }
 }
